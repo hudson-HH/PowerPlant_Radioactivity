@@ -1,0 +1,2 @@
+analysis,full_n,full_monitors,wind_ms,full_estimate,full_ci95_low,full_ci95_high,loo_min,loo_max,max_abs_shift,all_same_sign_as_full,n_ci_above_zero,n_ci_below_zero,n_ci_cross_zero,most_influential_monitor,estimate_after_omission
+Overall upwind plant count,558915,140,2.985606,0.000717534224426517,0.000515251170164737,0.000919817278688297,0.000484958568088462,0.0010757554606336,0.00035822123620708,TRUE,140,0,0,4006,0.0010757554606336

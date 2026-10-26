@@ -1,0 +1,15 @@
+check,observed,expected,status
+formal_filter_rows,107407,107407,PASS
+formal_filter_monitors,133,133,PASS
+daily_join_unmatched_zero,0,0,PASS
+model_status_rows,224,224,PASS
+model_FAIL_zero,0,0,PASS
+model_SKIP_zero,0,0,PASS
+model_PASS_224,224,224,PASS
+Figure4_effect_rows_112,112,112,PASS
+Figure5_joint_effect_rows_336,336,336,PASS
+H15_crosscheck_complete,0,0,PASS
+H15_crosscheck_within_tolerance,7.572079e-03,<=0.0000001,FAIL
+H10_direction_crosscheck_complete,0,0,PASS
+H10_direction_crosscheck_within_tolerance,3.883664e-13,<=0.0000001,PASS
+four_png_four_pdf,8,8,PASS

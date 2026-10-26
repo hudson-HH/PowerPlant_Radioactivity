@@ -1,0 +1,9 @@
+fuel,metric,n,n_monitors,wind_ms,baseline_estimate,baseline_ci95_low,baseline_ci95_high,baseline_p,flexible_estimate,flexible_ci95_low,flexible_ci95_high,flexible_p,absolute_change,percent_change,sign_changed
+coal,count,,,,,,,,,,,,,,
+coal,heat,,,,,,,,,,,,,,
+gas,count,,,,,,,,,,,,,,
+gas,heat,,,,,,,,,,,,,,
+oil,count,,,,,,,,,,,,,,
+oil,heat,,,,,,,,,,,,,,
+biomass,count,,,,,,,,,,,,,,
+biomass,heat,,,,,,,,,,,,,,

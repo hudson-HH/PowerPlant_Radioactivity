@@ -1,0 +1,13 @@
+Environmental factor,Estimate,95% CI,Interpretation
+Continental air-mass proportion,0.1095,"(0.0930, 0.1260)",Continental air-mass contribution
+Monthly sunspot number,0.000227,"(4.91e-05, 4.05e-04)",Solar activity
+PM2.5,0.0175,"(0.0164, 0.0187)",Fine particulate matter
+Inverse PBLH,49.2767,"(36.1439, 62.4095)",Atmospheric mixing and dilution
+Relative humidity,-0.0011,"(-0.0015, -7.45e-04)",Atmospheric moisture
+Soil moisture,-0.0000311,"(-9.87e-05, 3.65e-05)",Surface soil-moisture condition
+Wind speed,-0.0015,"(-0.0044, 0.0013)",Atmospheric transport
+Temperature,-0.006,"(-0.0068, -0.0052)",Temperature polynomial term
+Temperature²,0.000156,"(1.04e-04, 2.08e-04)",Temperature polynomial term
+Temperature³,-0.000000983,"(-2.37e-06, 4.04e-07)",Temperature polynomial term
+Sunspots × latitude,-0.0000172,"(-4.50e-05, 1.05e-05)",Modification of solar-activity association by latitude
+Surface uranium × soil moisture,-0.0000818,"(-1.21e-04, -4.31e-05)",Modification of soil-moisture association by surface uranium

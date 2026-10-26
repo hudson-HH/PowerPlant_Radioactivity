@@ -1,0 +1,14 @@
+{
+  "matrix_file": "<ORIGINAL_PROJECT_ROOT>/05_Deliverables/2026-09-29_Nature_manuscript/code_availability/data/prepared_model_data/filter_period_primary_2001_2024.csv.gz",
+  "matrix_md5": "780a7f412af0af27711e16e255f16897",
+  "frozen_file": "<ORIGINAL_PROJECT_ROOT>/05_Deliverables/2026-09-29_Nature_manuscript/source_data/Figure_6_panel_sample_sizes_and_estimates.csv",
+  "frozen_md5": "e54f97495bc74c544fd7b76aa420f6d3",
+  "validation_rows": 56,
+  "validation_pass": 56,
+  "max_abs_diff_FE": 3.4694e-16,
+  "max_abs_diff_mixed": 4.996e-16,
+  "A_C_preserved_exactly": true,
+  "B_evaluation_only_changed": true,
+  "within_between_definition": "Exposure is split by monitor-year mean and deviation; each component interacts with the same observed filter-period vel, not a separately decomposed wind variable",
+  "confidence_interval": "beta_X + w*beta_X:vel +/- 1.96*sqrt(V_XX + w^2*V_interaction_interaction + 2*w*V_X_interaction)"
+}

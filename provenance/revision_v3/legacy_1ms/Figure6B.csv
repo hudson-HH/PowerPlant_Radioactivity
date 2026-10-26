@@ -1,0 +1,49 @@
+fuel,metric,model,wind_reference,wind_ms,estimate,ci_low,ci_high,fuel_label,metric_label
+biomass,count,Original random-intercept,1 m/s,1,0.0900963578167709,0.00702216553609945,0.173170550097442,Biomass,"Active plant count
+(per additional active plant)"
+biomass,heat,Original random-intercept,1 m/s,1,0.0755023730524717,-0.00066516518949597,0.151669911294439,Biomass,"Actual daily Heat Input
+(per 10,000 MMBtu/day)"
+coal,count,Original random-intercept,1 m/s,1,-0.0133739235252201,-0.0228423878417252,-0.00390545920871498,Coal,"Active plant count
+(per additional active plant)"
+coal,heat,Original random-intercept,1 m/s,1,-0.000420742716701547,-0.00124964288542756,0.000408157452024466,Coal,"Actual daily Heat Input
+(per 10,000 MMBtu/day)"
+gas,count,Original random-intercept,1 m/s,1,-0.00639067715789731,-0.0107651606521704,-0.00201619366362422,Natural gas,"Active plant count
+(per additional active plant)"
+gas,heat,Original random-intercept,1 m/s,1,-0.00083276545281111,-0.00167972740267563,0.0000141964970534131,Natural gas,"Actual daily Heat Input
+(per 10,000 MMBtu/day)"
+oil,count,Original random-intercept,1 m/s,1,-0.0428329083710769,-0.0551362709117153,-0.0305295458304385,Oil,"Active plant count
+(per additional active plant)"
+oil,heat,Original random-intercept,1 m/s,1,-0.00596075306966029,-0.011927261120616,0.00000575498129544612,Oil,"Actual daily Heat Input
+(per 10,000 MMBtu/day)"
+biomass,count,Within monitor-year,1 m/s,1,0.144440184117351,0.0317984321101905,0.257081936124512,Biomass,"Active plant count
+(per additional active plant)"
+biomass,heat,Within monitor-year,1 m/s,1,0.14100208930301,0.0449200734448426,0.237084105161177,Biomass,"Actual daily Heat Input
+(per 10,000 MMBtu/day)"
+coal,count,Within monitor-year,1 m/s,1,0.00427404020461546,-0.00792977893101124,0.0164778593402422,Coal,"Active plant count
+(per additional active plant)"
+coal,heat,Within monitor-year,1 m/s,1,0.00147447897863622,0.000476346683516502,0.00247261127375595,Coal,"Actual daily Heat Input
+(per 10,000 MMBtu/day)"
+gas,count,Within monitor-year,1 m/s,1,0.00259097853011003,-0.00410456564582035,0.00928652270604042,Natural gas,"Active plant count
+(per additional active plant)"
+gas,heat,Within monitor-year,1 m/s,1,0.00146223277875207,0.000207365140787277,0.00271710041671686,Natural gas,"Actual daily Heat Input
+(per 10,000 MMBtu/day)"
+oil,count,Within monitor-year,1 m/s,1,-0.0145337412113372,-0.0330106492496329,0.0039431668269584,Oil,"Active plant count
+(per additional active plant)"
+oil,heat,Within monitor-year,1 m/s,1,-0.00282341595743905,-0.0116089800838238,0.00596214816894568,Oil,"Actual daily Heat Input
+(per 10,000 MMBtu/day)"
+biomass,count,Between monitor-years,1 m/s,1,0.0495436766368563,-0.185092968232818,0.284180321506531,Biomass,"Active plant count
+(per additional active plant)"
+biomass,heat,Between monitor-years,1 m/s,1,-0.256832988048418,-0.450678501179298,-0.0629874749175375,Biomass,"Actual daily Heat Input
+(per 10,000 MMBtu/day)"
+coal,count,Between monitor-years,1 m/s,1,-0.0352165707977058,-0.051556886515531,-0.0188762550798806,Coal,"Active plant count
+(per additional active plant)"
+coal,heat,Between monitor-years,1 m/s,1,-0.00536928037365245,-0.00710735278299912,-0.00363120796430578,Coal,"Actual daily Heat Input
+(per 10,000 MMBtu/day)"
+gas,count,Between monitor-years,1 m/s,1,-0.0286734655257632,-0.0366632902207399,-0.0206836408307865,Natural gas,"Active plant count
+(per additional active plant)"
+gas,heat,Between monitor-years,1 m/s,1,-0.00423787828930024,-0.00559898946593757,-0.00287676711266292,Natural gas,"Actual daily Heat Input
+(per 10,000 MMBtu/day)"
+oil,count,Between monitor-years,1 m/s,1,-0.0576109709002751,-0.0761502948664292,-0.039071646934121,Oil,"Active plant count
+(per additional active plant)"
+oil,heat,Between monitor-years,1 m/s,1,-0.00788056856642641,-0.0163279096303339,0.000566772497481103,Oil,"Actual daily Heat Input
+(per 10,000 MMBtu/day)"

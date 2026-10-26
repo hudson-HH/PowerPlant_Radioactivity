@@ -1,0 +1,28 @@
+{
+  "pdf": "<ORIGINAL_USER_HOME>/Desktop/WorkSpace/Project_007_\u7f8e\u56fd\u53d1\u7535\u7ad9\u6570\u636e\u6574\u7406/05_Deliverables/2026-09-29_Nature_manuscript/code_availability/outputs/figures/Figure_GFED_biomass_sensitivity.pdf",
+  "geometry_adapter": "Cairo line boxes; original stroke/clipping logic and default thresholds",
+  "auditable": true,
+  "verdict": "PASS",
+  "page_count": 1,
+  "visible_text_box_count": 24,
+  "text_trace_count": 15,
+  "stroke_path_count": 138,
+  "filled_region_count": 39,
+  "image_region_count": 0,
+  "summary": {
+    "fail": 0,
+    "warn": 0,
+    "contained_fill_overlays": 4,
+    "contained_image_overlays": 0
+  },
+  "thresholds": {
+    "text_inset_pt": 0.6,
+    "min_overlap_ratio": 0.05,
+    "clipping_tolerance_pt": 0.5
+  },
+  "findings": [],
+  "transformed_font_sizes": {
+    "minimum_pt": 8.0,
+    "below_5pt": 0
+  }
+}

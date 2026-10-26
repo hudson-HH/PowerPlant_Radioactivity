@@ -1,0 +1,10 @@
+check,observed,expected,status
+formal_rows,107407,107407,PASS
+formal_monitors,133,133,PASS
+daily_files,24,24,PASS
+daily_join_unmatched,0,0,PASS
+current_models_PASS,56,56,PASS
+natural_spline_models_PASS,56,56,PASS
+current_vs_ns_model_N_equal,0,0,PASS
+Figure4_source_rows,56,56,PASS
+Figure4_reproduction,2.63678e-16,<=1e-7,PASS

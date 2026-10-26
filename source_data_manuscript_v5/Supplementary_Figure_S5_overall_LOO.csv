@@ -1,0 +1,281 @@
+omitted_monitor,wind_ms,status,n_rows,n_monitors,estimate,se,ci95_low,ci95_high,note
+10,2.985606,PASS,553261,139,0.000752535876230674,0.000104132086989627,0.000548436985731005,0.000956634766730343,"Some predictor variables are on very different scales: consider rescaling. 
+You may also use (g)lmerControl(autoscale = TRUE) to improve numerical stability."
+100,2.985606,PASS,556160,139,0.000700694199972496,0.000103280001385395,0.000498265397257122,0.00090312300268787,"Some predictor variables are on very different scales: consider rescaling. 
+You may also use (g)lmerControl(autoscale = TRUE) to improve numerical stability."
+101,2.985606,PASS,551982,139,0.000717270313697914,0.000103813692815026,0.000513795475780464,0.000920745151615365,"Some predictor variables are on very different scales: consider rescaling. 
+You may also use (g)lmerControl(autoscale = TRUE) to improve numerical stability."
+102,2.985606,PASS,554384,139,0.000756149817062776,0.000103449061728038,0.000553389656075822,0.00095890997804973,"Some predictor variables are on very different scales: consider rescaling. 
+You may also use (g)lmerControl(autoscale = TRUE) to improve numerical stability."
+105,2.985606,PASS,554762,139,0.000704828789709639,0.00010342209814615,0.000502121477343185,0.000907536102076094,"Some predictor variables are on very different scales: consider rescaling. 
+You may also use (g)lmerControl(autoscale = TRUE) to improve numerical stability."
+106,2.985606,PASS,553166,139,0.000722629114815642,0.00010336498852741,0.000520033737301918,0.000925224492329366,"Some predictor variables are on very different scales: consider rescaling. 
+You may also use (g)lmerControl(autoscale = TRUE) to improve numerical stability."
+107,2.985606,PASS,553410,139,0.000648620325458471,0.000102027335178158,0.000448646748509281,0.000848593902407662,"Some predictor variables are on very different scales: consider rescaling. 
+You may also use (g)lmerControl(autoscale = TRUE) to improve numerical stability."
+109,2.985606,PASS,553999,139,0.000724763102649536,0.000103592966275271,0.000521720888750005,0.000927805316549066,"Some predictor variables are on very different scales: consider rescaling. 
+You may also use (g)lmerControl(autoscale = TRUE) to improve numerical stability."
+110,2.985606,PASS,552023,139,0.000713941102481075,0.000103411064911265,0.000511255415254996,0.000916626789707155,"Some predictor variables are on very different scales: consider rescaling. 
+You may also use (g)lmerControl(autoscale = TRUE) to improve numerical stability."
+111,2.985606,PASS,554545,139,0.000699426403057507,0.000104015132645163,0.000495556743072987,0.000903296063042027,"Some predictor variables are on very different scales: consider rescaling. 
+You may also use (g)lmerControl(autoscale = TRUE) to improve numerical stability."
+112,2.985606,PASS,552068,139,0.00066992205863489,0.00010476544607195,0.000464581784333868,0.000875262332935913,"Some predictor variables are on very different scales: consider rescaling. 
+You may also use (g)lmerControl(autoscale = TRUE) to improve numerical stability."
+113,2.985606,PASS,554926,139,0.000764482397228196,0.000103552444863044,0.00056151960529663,0.000967445189159762,"Some predictor variables are on very different scales: consider rescaling. 
+You may also use (g)lmerControl(autoscale = TRUE) to improve numerical stability."
+114,2.985606,PASS,554291,139,0.000692799882507773,0.000106671778517836,0.000483723196612814,0.000901876568402731,"Some predictor variables are on very different scales: consider rescaling. 
+You may also use (g)lmerControl(autoscale = TRUE) to improve numerical stability."
+116,2.985606,PASS,556409,139,0.000738874314866605,0.000103493103327973,0.000536027832343777,0.000941720797389432,"Some predictor variables are on very different scales: consider rescaling. 
+You may also use (g)lmerControl(autoscale = TRUE) to improve numerical stability."
+117,2.985606,PASS,556138,139,0.000740975247341699,0.000103240308474988,0.000538624242730722,0.000943326251952675,"Some predictor variables are on very different scales: consider rescaling. 
+You may also use (g)lmerControl(autoscale = TRUE) to improve numerical stability."
+119,2.985606,PASS,553999,139,0.000763039182029923,0.00010318309418941,0.00056080031741868,0.000965278046641166,"Some predictor variables are on very different scales: consider rescaling. 
+You may also use (g)lmerControl(autoscale = TRUE) to improve numerical stability."
+125,2.985606,PASS,551869,139,0.000712262749681131,0.000103340213094709,0.000509715932015502,0.000914809567346761,"Some predictor variables are on very different scales: consider rescaling. 
+You may also use (g)lmerControl(autoscale = TRUE) to improve numerical stability."
+129,2.985606,PASS,556198,139,0.000734457434916924,0.00010361490635458,0.000531372218461947,0.000937542651371901,"Some predictor variables are on very different scales: consider rescaling. 
+You may also use (g)lmerControl(autoscale = TRUE) to improve numerical stability."
+13,2.985606,PASS,554435,139,0.000716685675933133,0.000103544634225256,0.000513738192851631,0.000919633159014635,"Some predictor variables are on very different scales: consider rescaling. 
+You may also use (g)lmerControl(autoscale = TRUE) to improve numerical stability."
+130,2.985606,PASS,555133,139,0.000692493140939068,0.000103207141420889,0.000490207143754125,0.000894779138124011,"Some predictor variables are on very different scales: consider rescaling. 
+You may also use (g)lmerControl(autoscale = TRUE) to improve numerical stability."
+132,2.985606,PASS,555175,139,0.000691593499006174,0.000103189089878137,0.000489342882845025,0.000893844115167322,"Some predictor variables are on very different scales: consider rescaling. 
+You may also use (g)lmerControl(autoscale = TRUE) to improve numerical stability."
+135,2.985606,PASS,556024,139,0.000734272490698119,0.000102676416216762,0.000533026714913266,0.000935518266482973,"Some predictor variables are on very different scales: consider rescaling. 
+You may also use (g)lmerControl(autoscale = TRUE) to improve numerical stability."
+136,2.985606,PASS,555899,139,0.000707086613839167,0.000103184378015662,0.000504845232928469,0.000909327994749864,"Some predictor variables are on very different scales: consider rescaling. 
+You may also use (g)lmerControl(autoscale = TRUE) to improve numerical stability."
+137,2.985606,PASS,554074,139,0.000733989899648067,0.000103466351078659,0.000531195851533894,0.000936783947762239,"Some predictor variables are on very different scales: consider rescaling. 
+You may also use (g)lmerControl(autoscale = TRUE) to improve numerical stability."
+139,2.985606,PASS,558055,139,0.0007125382957271,0.000103259753300457,0.000510149179258204,0.000914927412195996,"Some predictor variables are on very different scales: consider rescaling. 
+You may also use (g)lmerControl(autoscale = TRUE) to improve numerical stability."
+141,2.985606,PASS,554217,139,0.000659130525182555,0.000103273760878894,0.000456713953859924,0.000861547096505187,"Some predictor variables are on very different scales: consider rescaling. 
+You may also use (g)lmerControl(autoscale = TRUE) to improve numerical stability."
+142,2.985606,PASS,556108,139,0.000742415339647714,0.000103384021632727,0.00053978265724757,0.000945048022047858,"Some predictor variables are on very different scales: consider rescaling. 
+You may also use (g)lmerControl(autoscale = TRUE) to improve numerical stability."
+145,2.985606,PASS,551598,139,0.000708515101228093,0.000103769015014319,0.000505127831800028,0.000911902370656158,"Some predictor variables are on very different scales: consider rescaling. 
+You may also use (g)lmerControl(autoscale = TRUE) to improve numerical stability."
+146,2.985606,PASS,555759,139,0.000700336826381795,0.000103459143039096,0.000497556906025166,0.000903116746738424,"Some predictor variables are on very different scales: consider rescaling. 
+You may also use (g)lmerControl(autoscale = TRUE) to improve numerical stability."
+149,2.985606,PASS,558045,139,0.00071741869817582,0.00010316631904374,0.000515212712850091,0.00091962468350155,"Some predictor variables are on very different scales: consider rescaling. 
+You may also use (g)lmerControl(autoscale = TRUE) to improve numerical stability."
+155,2.985606,PASS,554614,139,0.000723879044228995,0.000102441906675899,0.000523092907144234,0.000924665181313756,"Some predictor variables are on very different scales: consider rescaling. 
+You may also use (g)lmerControl(autoscale = TRUE) to improve numerical stability."
+158,2.985606,PASS,555149,139,0.000699087688239066,0.000103329858206582,0.000496561166154166,0.000901614210323966,"Some predictor variables are on very different scales: consider rescaling. 
+You may also use (g)lmerControl(autoscale = TRUE) to improve numerical stability."
+159,2.985606,PASS,554701,139,0.000697911625125458,0.000103286324768394,0.000495470428579406,0.00090035282167151,"Some predictor variables are on very different scales: consider rescaling. 
+You may also use (g)lmerControl(autoscale = TRUE) to improve numerical stability."
+1662,2.985606,PASS,553881,139,0.000652377779010918,0.000103087076390166,0.000450327109286192,0.000854428448735645,"Some predictor variables are on very different scales: consider rescaling. 
+You may also use (g)lmerControl(autoscale = TRUE) to improve numerical stability."
+180,2.985606,PASS,553038,139,0.000703654021444051,0.000103601047265867,0.000500595968802951,0.000906712074085151,"Some predictor variables are on very different scales: consider rescaling. 
+You may also use (g)lmerControl(autoscale = TRUE) to improve numerical stability."
+181,2.985606,PASS,551748,139,0.000701073622525695,0.000104007413309047,0.000497219092439963,0.000904928152611427,"Some predictor variables are on very different scales: consider rescaling. 
+You may also use (g)lmerControl(autoscale = TRUE) to improve numerical stability."
+186,2.985606,PASS,556202,139,0.000705387331317391,0.000102802271303017,0.000503894879563479,0.000906879783071304,"Some predictor variables are on very different scales: consider rescaling. 
+You may also use (g)lmerControl(autoscale = TRUE) to improve numerical stability."
+187,2.985606,PASS,555952,139,0.000718415174620895,0.000103153767836534,0.000516233789661288,0.000920596559580502,"Some predictor variables are on very different scales: consider rescaling. 
+You may also use (g)lmerControl(autoscale = TRUE) to improve numerical stability."
+192,2.985606,PASS,554603,139,0.000742120237896681,0.000103335016275822,0.00053958360599607,0.000944656869797291,"Some predictor variables are on very different scales: consider rescaling. 
+You may also use (g)lmerControl(autoscale = TRUE) to improve numerical stability."
+193,2.985606,PASS,553396,139,0.000730401751370391,0.000103798062346003,0.000526957549172224,0.000933845953568558,"Some predictor variables are on very different scales: consider rescaling. 
+You may also use (g)lmerControl(autoscale = TRUE) to improve numerical stability."
+195,2.985606,PASS,555585,139,0.00071563554630625,0.000103333465623965,0.00051310195368328,0.000918169138929221,"Some predictor variables are on very different scales: consider rescaling. 
+You may also use (g)lmerControl(autoscale = TRUE) to improve numerical stability."
+196,2.985606,PASS,555026,139,0.000737072969768343,0.000103369999915863,0.000534467769933251,0.000939678169603434,"Some predictor variables are on very different scales: consider rescaling. 
+You may also use (g)lmerControl(autoscale = TRUE) to improve numerical stability."
+199,2.985606,PASS,554388,139,0.000743630070646637,0.000103423056885053,0.000540920879151933,0.00094633926214134,"Some predictor variables are on very different scales: consider rescaling. 
+You may also use (g)lmerControl(autoscale = TRUE) to improve numerical stability."
+2,2.985606,PASS,553760,139,0.000699380193741703,0.000103439518434646,0.000496638737609798,0.000902121649873608,"Some predictor variables are on very different scales: consider rescaling. 
+You may also use (g)lmerControl(autoscale = TRUE) to improve numerical stability."
+2103,2.985606,PASS,553579,139,0.000734917082223753,0.000103834821623138,0.000531400831842403,0.000938433332605102,"Some predictor variables are on very different scales: consider rescaling. 
+You may also use (g)lmerControl(autoscale = TRUE) to improve numerical stability."
+23,2.985606,PASS,552180,139,0.000674544785396521,0.000104532645328211,0.000469660800553226,0.000879428770239815,"Some predictor variables are on very different scales: consider rescaling. 
+You may also use (g)lmerControl(autoscale = TRUE) to improve numerical stability."
+24,2.985606,PASS,552063,139,0.000706453501230713,0.000104070077861507,0.00050247614862216,0.000910430853839267,"Some predictor variables are on very different scales: consider rescaling. 
+You may also use (g)lmerControl(autoscale = TRUE) to improve numerical stability."
+2414,2.985606,PASS,553409,139,0.000758163572775158,0.000103337248550968,0.00055562256561526,0.000960704579935055,"Some predictor variables are on very different scales: consider rescaling. 
+You may also use (g)lmerControl(autoscale = TRUE) to improve numerical stability."
+249,2.985606,PASS,556376,139,0.000719782881123972,0.00010338582366256,0.000517146666745353,0.00092241909550259,"Some predictor variables are on very different scales: consider rescaling. 
+You may also use (g)lmerControl(autoscale = TRUE) to improve numerical stability."
+25,2.985606,PASS,554879,139,0.000790053328169068,0.000106120656281881,0.00058205684185658,0.000998049814481556,"Some predictor variables are on very different scales: consider rescaling. 
+You may also use (g)lmerControl(autoscale = TRUE) to improve numerical stability."
+2511,2.985606,PASS,556803,139,0.000713025254518728,0.000103341287205655,0.000510476331595644,0.000915574177441812,"Some predictor variables are on very different scales: consider rescaling. 
+You may also use (g)lmerControl(autoscale = TRUE) to improve numerical stability."
+262,2.985606,PASS,554577,139,0.000773985632768798,0.000103162309812564,0.000571787505536173,0.000976183760001423,"Some predictor variables are on very different scales: consider rescaling. 
+You may also use (g)lmerControl(autoscale = TRUE) to improve numerical stability."
+268,2.985606,PASS,556682,139,0.000732732498004368,0.000103496558776551,0.000529879242802329,0.000935585753206408,"Some predictor variables are on very different scales: consider rescaling. 
+You may also use (g)lmerControl(autoscale = TRUE) to improve numerical stability."
+27,2.985606,PASS,555529,139,0.000739370481781012,0.000103476728149156,0.000536556094608666,0.000942184868953358,"Some predictor variables are on very different scales: consider rescaling. 
+You may also use (g)lmerControl(autoscale = TRUE) to improve numerical stability."
+2729,2.985606,PASS,557178,139,0.000718451273082218,0.000103410162571952,0.000515767354441193,0.000921135191723243,"Some predictor variables are on very different scales: consider rescaling. 
+You may also use (g)lmerControl(autoscale = TRUE) to improve numerical stability."
+2738,2.985606,PASS,553717,139,0.000742105743523633,0.000103700725246997,0.000538852322039519,0.000945359165007747,"Some predictor variables are on very different scales: consider rescaling. 
+You may also use (g)lmerControl(autoscale = TRUE) to improve numerical stability."
+2747,2.985606,PASS,554351,139,0.000484958568088462,0.000106679929836421,0.000275865905609077,0.000694051230567847,"Some predictor variables are on very different scales: consider rescaling. 
+You may also use (g)lmerControl(autoscale = TRUE) to improve numerical stability."
+2963,2.985606,PASS,556182,139,0.000688605032334446,0.000103183262093879,0.000486365838630443,0.00089084422603845,"Some predictor variables are on very different scales: consider rescaling. 
+You may also use (g)lmerControl(autoscale = TRUE) to improve numerical stability."
+3,2.985606,PASS,556816,139,0.000724929053648983,0.000103356555646363,0.00052235020458211,0.000927507902715855,"Some predictor variables are on very different scales: consider rescaling. 
+You may also use (g)lmerControl(autoscale = TRUE) to improve numerical stability."
+3067,2.985606,PASS,556451,139,0.000716443513000733,0.000102714294337683,0.000515123496098875,0.000917763529902591,"Some predictor variables are on very different scales: consider rescaling. 
+You may also use (g)lmerControl(autoscale = TRUE) to improve numerical stability."
+3075,2.985606,PASS,554572,139,0.000687965903722079,0.000103557497658932,0.000484993208310572,0.000890938599133586,"Some predictor variables are on very different scales: consider rescaling. 
+You may also use (g)lmerControl(autoscale = TRUE) to improve numerical stability."
+3117,2.985606,PASS,555874,139,0.000716535864059172,0.000103332994679268,0.000514003194487807,0.000919068533630537,"Some predictor variables are on very different scales: consider rescaling. 
+You may also use (g)lmerControl(autoscale = TRUE) to improve numerical stability."
+3122,2.985606,PASS,557315,139,0.000714893432934336,0.000103345025180668,0.000512337183580226,0.000917449682288446,"Some predictor variables are on very different scales: consider rescaling. 
+You may also use (g)lmerControl(autoscale = TRUE) to improve numerical stability."
+3127,2.985606,PASS,553758,139,0.000641905086576455,0.000105120422967889,0.000435869057559392,0.000847941115593518,"Some predictor variables are on very different scales: consider rescaling. 
+You may also use (g)lmerControl(autoscale = TRUE) to improve numerical stability."
+3145,2.985606,PASS,554675,139,0.000719778275622506,0.00010344592615335,0.00051702426036194,0.000922532290883072,"Some predictor variables are on very different scales: consider rescaling. 
+You may also use (g)lmerControl(autoscale = TRUE) to improve numerical stability."
+33,2.985606,PASS,554883,139,0.000708066184511216,0.000103735707048043,0.000504744198697052,0.00091138817032538,"Some predictor variables are on very different scales: consider rescaling. 
+You may also use (g)lmerControl(autoscale = TRUE) to improve numerical stability."
+333,2.985606,PASS,555202,139,0.000721115128844382,0.000106960192534778,0.000511473151476216,0.000930757106212548,"Some predictor variables are on very different scales: consider rescaling. 
+You may also use (g)lmerControl(autoscale = TRUE) to improve numerical stability."
+334,2.985606,PASS,557276,139,0.000714354452538269,0.000103206280738924,0.000512070142289978,0.00091663876278656,"Some predictor variables are on very different scales: consider rescaling. 
+You may also use (g)lmerControl(autoscale = TRUE) to improve numerical stability."
+340,2.985606,PASS,556331,139,0.000703052211651509,0.000103199334537044,0.000500781515958902,0.000905322907344116,"Some predictor variables are on very different scales: consider rescaling. 
+You may also use (g)lmerControl(autoscale = TRUE) to improve numerical stability."
+346,2.985606,PASS,553908,139,0.000723057234480998,0.000103565206037315,0.000520069430647861,0.000926045038314134,"Some predictor variables are on very different scales: consider rescaling. 
+You may also use (g)lmerControl(autoscale = TRUE) to improve numerical stability."
+351,2.985606,PASS,551629,139,0.00072930091201814,0.000103600485105691,0.000526243961210986,0.000932357862825295,"Some predictor variables are on very different scales: consider rescaling. 
+You may also use (g)lmerControl(autoscale = TRUE) to improve numerical stability."
+366,2.985606,PASS,557103,139,0.00070829617408534,0.000103271870336221,0.000505883308226346,0.000910709039944334,"Some predictor variables are on very different scales: consider rescaling. 
+You may also use (g)lmerControl(autoscale = TRUE) to improve numerical stability."
+368,2.985606,PASS,555493,139,0.000708579782031045,0.000103313614402971,0.000506085097801222,0.000911074466260868,"Some predictor variables are on very different scales: consider rescaling. 
+You may also use (g)lmerControl(autoscale = TRUE) to improve numerical stability."
+370,2.985606,PASS,554963,139,0.000706740226184706,0.000103483927879821,0.000503911727540257,0.000909568724829156,"Some predictor variables are on very different scales: consider rescaling. 
+You may also use (g)lmerControl(autoscale = TRUE) to improve numerical stability."
+377,2.985606,PASS,556354,139,0.00074375760596435,0.000103279690199617,0.000541329413173102,0.000946185798755599,"Some predictor variables are on very different scales: consider rescaling. 
+You may also use (g)lmerControl(autoscale = TRUE) to improve numerical stability."
+3811,2.985606,PASS,557378,139,0.000705996269986916,0.000103271211181883,0.000503584696070426,0.000908407843903406,"Some predictor variables are on very different scales: consider rescaling. 
+You may also use (g)lmerControl(autoscale = TRUE) to improve numerical stability."
+3822,2.985606,PASS,554868,139,0.00073650449726699,0.000103340989204084,0.000533956158426985,0.000939052836106996,"Some predictor variables are on very different scales: consider rescaling. 
+You may also use (g)lmerControl(autoscale = TRUE) to improve numerical stability."
+3834,2.985606,PASS,551281,139,0.000730470974764553,0.000103364753332765,0.000527876058232334,0.000933065891296772,"Some predictor variables are on very different scales: consider rescaling. 
+You may also use (g)lmerControl(autoscale = TRUE) to improve numerical stability."
+3838,2.985606,PASS,551346,139,0.000687417140552657,0.000103582620111311,0.000484395205134488,0.000890439075970825,"Some predictor variables are on very different scales: consider rescaling. 
+You may also use (g)lmerControl(autoscale = TRUE) to improve numerical stability."
+3839,2.985606,PASS,552405,139,0.000743923892326183,0.000103323371397795,0.000541410084386504,0.000946437700265862,"Some predictor variables are on very different scales: consider rescaling. 
+You may also use (g)lmerControl(autoscale = TRUE) to improve numerical stability."
+3843,2.985606,PASS,554192,139,0.000692727072609307,0.000103476787028048,0.000489912570034333,0.000895541575184281,"Some predictor variables are on very different scales: consider rescaling. 
+You may also use (g)lmerControl(autoscale = TRUE) to improve numerical stability."
+3844,2.985606,PASS,551253,139,0.00072307356873239,0.000103515787086377,0.000520182626043091,0.00092596451142169,"Some predictor variables are on very different scales: consider rescaling. 
+You may also use (g)lmerControl(autoscale = TRUE) to improve numerical stability."
+3847,2.985606,PASS,554159,139,0.000729964782098124,0.000103461528726654,0.000527180185793882,0.000932749378402366,"Some predictor variables are on very different scales: consider rescaling. 
+You may also use (g)lmerControl(autoscale = TRUE) to improve numerical stability."
+3874,2.985606,PASS,551362,139,0.000712500120690094,0.000103573603874715,0.000509495857095652,0.000915504384284536,"Some predictor variables are on very different scales: consider rescaling. 
+You may also use (g)lmerControl(autoscale = TRUE) to improve numerical stability."
+3890,2.985606,PASS,553969,139,0.000772363594506096,0.000103885468941949,0.000568748075379877,0.000975979113632316,"Some predictor variables are on very different scales: consider rescaling. 
+You may also use (g)lmerControl(autoscale = TRUE) to improve numerical stability."
+39,2.985606,PASS,557772,139,0.000745239061476201,0.000103230347319081,0.000542907580730802,0.0009475705422216,"Some predictor variables are on very different scales: consider rescaling. 
+You may also use (g)lmerControl(autoscale = TRUE) to improve numerical stability."
+3929,2.985606,PASS,557770,139,0.000717831277026391,0.000103157983377671,0.000515641629606155,0.000920020924446627,"Some predictor variables are on very different scales: consider rescaling. 
+You may also use (g)lmerControl(autoscale = TRUE) to improve numerical stability."
+3973,2.985606,PASS,554840,139,0.000685238069397446,0.000103607737945309,0.000482166903024641,0.000888309235770251,"Some predictor variables are on very different scales: consider rescaling. 
+You may also use (g)lmerControl(autoscale = TRUE) to improve numerical stability."
+3989,2.985606,PASS,553431,139,0.000733710951622499,0.00010352114076233,0.000530809515728331,0.000936612387516666,"Some predictor variables are on very different scales: consider rescaling. 
+You may also use (g)lmerControl(autoscale = TRUE) to improve numerical stability."
+3992,2.985606,PASS,557985,139,0.000715581257924887,0.000103210806287862,0.000513288077600677,0.000917874438249097,"Some predictor variables are on very different scales: consider rescaling. 
+You may also use (g)lmerControl(autoscale = TRUE) to improve numerical stability."
+3997,2.985606,PASS,551953,139,0.000692943248722434,0.000103348922462608,0.000490379360695723,0.000895507136749146,"Some predictor variables are on very different scales: consider rescaling. 
+You may also use (g)lmerControl(autoscale = TRUE) to improve numerical stability."
+40,2.985606,PASS,556322,139,0.000724796777671416,0.000104389357436617,0.000520193637095646,0.000929399918247186,"Some predictor variables are on very different scales: consider rescaling. 
+You may also use (g)lmerControl(autoscale = TRUE) to improve numerical stability."
+4006,2.985606,PASS,554008,139,0.0010757554606336,0.000111717789486587,0.000856788593239886,0.00129472232802731,"Some predictor variables are on very different scales: consider rescaling. 
+You may also use (g)lmerControl(autoscale = TRUE) to improve numerical stability."
+4008,2.985606,PASS,554191,139,0.000574528100169247,0.00010779390717986,0.000363252042096721,0.000785804158241774,"Some predictor variables are on very different scales: consider rescaling. 
+You may also use (g)lmerControl(autoscale = TRUE) to improve numerical stability."
+4021,2.985606,PASS,554090,139,0.00076136315575021,0.000103279503971947,0.000558935327965193,0.000963790983535227,"Some predictor variables are on very different scales: consider rescaling. 
+You may also use (g)lmerControl(autoscale = TRUE) to improve numerical stability."
+4035,2.985606,PASS,555743,139,0.000726604200059774,0.000103354490540761,0.000524029398599882,0.000929179001519666,"Some predictor variables are on very different scales: consider rescaling. 
+You may also use (g)lmerControl(autoscale = TRUE) to improve numerical stability."
+4037,2.985606,PASS,556338,139,0.000720303516585527,0.000103298873672152,0.000517837724188109,0.000922769308982944,"Some predictor variables are on very different scales: consider rescaling. 
+You may also use (g)lmerControl(autoscale = TRUE) to improve numerical stability."
+4041,2.985606,PASS,557370,139,0.000727778909659683,0.000103318163852204,0.000525275308509363,0.000930282510810004,"Some predictor variables are on very different scales: consider rescaling. 
+You may also use (g)lmerControl(autoscale = TRUE) to improve numerical stability."
+4044,2.985606,PASS,555050,139,0.000682618079011459,0.000103149485556426,0.000480445087320865,0.000884791070702053,"Some predictor variables are on very different scales: consider rescaling. 
+You may also use (g)lmerControl(autoscale = TRUE) to improve numerical stability."
+4047,2.985606,PASS,556543,139,0.000709884500899073,0.000102273029568178,0.000509429362945445,0.000910339638852702,"Some predictor variables are on very different scales: consider rescaling. 
+You may also use (g)lmerControl(autoscale = TRUE) to improve numerical stability."
+4051,2.985606,PASS,556500,139,0.0010050150449339,0.00010323951012675,0.000802665605085468,0.00120736448478233,"Some predictor variables are on very different scales: consider rescaling. 
+You may also use (g)lmerControl(autoscale = TRUE) to improve numerical stability."
+4059,2.985606,PASS,554198,139,0.000758929315083129,0.000103969089074444,0.000555149900497219,0.000962708729669039,"Some predictor variables are on very different scales: consider rescaling. 
+You may also use (g)lmerControl(autoscale = TRUE) to improve numerical stability."
+4071,2.985606,PASS,553941,139,0.000706861063851809,0.000103399447920607,0.000504198145927419,0.000909523981776199,"Some predictor variables are on very different scales: consider rescaling. 
+You may also use (g)lmerControl(autoscale = TRUE) to improve numerical stability."
+4073,2.985606,PASS,556130,139,0.000699707175667469,0.000103279273007751,0.000497279800572278,0.00090213455076266,"Some predictor variables are on very different scales: consider rescaling. 
+You may also use (g)lmerControl(autoscale = TRUE) to improve numerical stability."
+4074,2.985606,PASS,557228,139,0.000722489828508791,0.000103330295940497,0.000519962448465418,0.000925017208552164,"Some predictor variables are on very different scales: consider rescaling. 
+You may also use (g)lmerControl(autoscale = TRUE) to improve numerical stability."
+4077,2.985606,PASS,556383,139,0.000718336918472641,0.000103361202046424,0.00051574896246165,0.000920924874483632,"Some predictor variables are on very different scales: consider rescaling. 
+You may also use (g)lmerControl(autoscale = TRUE) to improve numerical stability."
+4087,2.985606,PASS,554911,139,0.000686938053719945,0.000102345104971831,0.000486341647975157,0.000887534459464733,"Some predictor variables are on very different scales: consider rescaling. 
+You may also use (g)lmerControl(autoscale = TRUE) to improve numerical stability."
+4088,2.985606,PASS,558336,139,0.000722181870005853,0.000103233739460239,0.000519843740663785,0.00092451999934792,"Some predictor variables are on very different scales: consider rescaling. 
+You may also use (g)lmerControl(autoscale = TRUE) to improve numerical stability."
+4095,2.985606,PASS,556960,139,0.000716717530519619,0.000103247947646575,0.000514351553132331,0.000919083507906906,"Some predictor variables are on very different scales: consider rescaling. 
+You may also use (g)lmerControl(autoscale = TRUE) to improve numerical stability."
+41,2.985606,PASS,552721,139,0.000693949109466671,0.000104176588808645,0.000489762995401728,0.000898135223531615,"Some predictor variables are on very different scales: consider rescaling. 
+You may also use (g)lmerControl(autoscale = TRUE) to improve numerical stability."
+4100,2.985606,PASS,558167,139,0.000720778425615864,0.000103275987276467,0.00051835749055399,0.000923199360677738,"Some predictor variables are on very different scales: consider rescaling. 
+You may also use (g)lmerControl(autoscale = TRUE) to improve numerical stability."
+4102,2.985606,PASS,555689,139,0.000729849360151739,0.000103450274335639,0.000527086822453887,0.00093261189784959,"Some predictor variables are on very different scales: consider rescaling. 
+You may also use (g)lmerControl(autoscale = TRUE) to improve numerical stability."
+4105,2.985606,PASS,557960,139,0.000713925022451864,0.000103258418552766,0.000511538522088442,0.000916311522815286,"Some predictor variables are on very different scales: consider rescaling. 
+You may also use (g)lmerControl(autoscale = TRUE) to improve numerical stability."
+4107,2.985606,PASS,557367,139,0.000704785129603129,0.000103303535348577,0.000502310200319918,0.000907260058886341,"Some predictor variables are on very different scales: consider rescaling. 
+You may also use (g)lmerControl(autoscale = TRUE) to improve numerical stability."
+4108,2.985606,PASS,556798,139,0.000713154396191687,0.000103104657579482,0.000511069267335902,0.000915239525047472,"Some predictor variables are on very different scales: consider rescaling. 
+You may also use (g)lmerControl(autoscale = TRUE) to improve numerical stability."
+42,2.985606,PASS,554528,139,0.000727194263693802,0.000103551874820273,0.000524232589046068,0.000930155938341537,"Some predictor variables are on very different scales: consider rescaling. 
+You may also use (g)lmerControl(autoscale = TRUE) to improve numerical stability."
+429,2.985606,PASS,555485,139,0.000589517199674321,0.000103308650935419,0.0003870322438409,0.000792002155507742,"Some predictor variables are on very different scales: consider rescaling. 
+You may also use (g)lmerControl(autoscale = TRUE) to improve numerical stability."
+43,2.985606,PASS,557902,139,0.000708516715024897,0.000100932636091488,0.000510688748285582,0.000906344681764213,"Some predictor variables are on very different scales: consider rescaling. 
+You may also use (g)lmerControl(autoscale = TRUE) to improve numerical stability."
+44,2.985606,PASS,553613,139,0.000687670712996474,0.000103195767858054,0.000485407007994687,0.00088993441799826,"Some predictor variables are on very different scales: consider rescaling. 
+You may also use (g)lmerControl(autoscale = TRUE) to improve numerical stability."
+46,2.985606,PASS,553592,139,0.000707914723763079,0.000103557118230094,0.000504942772032095,0.000910886675494062,"Some predictor variables are on very different scales: consider rescaling. 
+You may also use (g)lmerControl(autoscale = TRUE) to improve numerical stability."
+487,2.985606,PASS,555080,139,0.000722617414452634,0.000103463738084028,0.000519828487807939,0.000925406341097329,"Some predictor variables are on very different scales: consider rescaling. 
+You may also use (g)lmerControl(autoscale = TRUE) to improve numerical stability."
+49,2.985606,PASS,551464,139,0.000762069965186935,0.000103685148519768,0.000558847074088189,0.000965292856285681,"Some predictor variables are on very different scales: consider rescaling. 
+You may also use (g)lmerControl(autoscale = TRUE) to improve numerical stability."
+500,2.985606,PASS,558324,139,0.000712741883366408,0.000103225517095308,0.000510419869859605,0.000915063896873211,"Some predictor variables are on very different scales: consider rescaling. 
+You may also use (g)lmerControl(autoscale = TRUE) to improve numerical stability."
+501,2.985606,PASS,555764,139,0.000734515919309537,0.000103284706001203,0.000532077895547179,0.000936953943071895,"Some predictor variables are on very different scales: consider rescaling. 
+You may also use (g)lmerControl(autoscale = TRUE) to improve numerical stability."
+51,2.985606,PASS,551735,139,0.000680590578845039,0.000103446974041356,0.00047783450972398,0.000883346647966097,"Some predictor variables are on very different scales: consider rescaling. 
+You may also use (g)lmerControl(autoscale = TRUE) to improve numerical stability."
+516,2.985606,PASS,555990,139,0.000726536495888453,0.000103467814598032,0.000523739579276311,0.000929333412500595,"Some predictor variables are on very different scales: consider rescaling. 
+You may also use (g)lmerControl(autoscale = TRUE) to improve numerical stability."
+55,2.985606,PASS,555416,139,0.000713359601982526,0.000103969013281297,0.000509580335951184,0.000917138868013868,"Some predictor variables are on very different scales: consider rescaling. 
+You may also use (g)lmerControl(autoscale = TRUE) to improve numerical stability."
+58,2.985606,PASS,551865,139,0.000727266459182754,0.000103049061477484,0.000525290298686887,0.000929242619678622,"Some predictor variables are on very different scales: consider rescaling. 
+You may also use (g)lmerControl(autoscale = TRUE) to improve numerical stability."
+6,2.985606,PASS,555459,139,0.000728845314659334,0.000103424426503904,0.000526133438711681,0.000931557190606986,"Some predictor variables are on very different scales: consider rescaling. 
+You may also use (g)lmerControl(autoscale = TRUE) to improve numerical stability."
+601,2.985606,PASS,556810,139,0.000720213344553904,0.000103252256586458,0.000517838921644447,0.000922587767463361,"Some predictor variables are on very different scales: consider rescaling. 
+You may also use (g)lmerControl(autoscale = TRUE) to improve numerical stability."
+7,2.985606,PASS,554066,139,0.000695298068149487,0.000103626687628755,0.000492189760397128,0.000898406375901847,"Some predictor variables are on very different scales: consider rescaling. 
+You may also use (g)lmerControl(autoscale = TRUE) to improve numerical stability."
+76,2.985606,PASS,555197,139,0.000731574929271746,0.000103436987273466,0.000528838434215752,0.00093431142432774,"Some predictor variables are on very different scales: consider rescaling. 
+You may also use (g)lmerControl(autoscale = TRUE) to improve numerical stability."
+77,2.985606,PASS,555001,139,0.000693562321327211,0.000103719130982189,0.00049027282460212,0.000896851818052302,"Some predictor variables are on very different scales: consider rescaling. 
+You may also use (g)lmerControl(autoscale = TRUE) to improve numerical stability."
+80,2.985606,PASS,552427,139,0.000681120753565121,0.000103277485347498,0.000478696882284024,0.000883544624846217,"Some predictor variables are on very different scales: consider rescaling. 
+You may also use (g)lmerControl(autoscale = TRUE) to improve numerical stability."
+9,2.985606,PASS,553021,139,0.000715490414898599,0.000103978775449038,0.000511692015018484,0.000919288814778714,"Some predictor variables are on very different scales: consider rescaling. 
+You may also use (g)lmerControl(autoscale = TRUE) to improve numerical stability."
+92,2.985606,PASS,556300,139,0.000740005657174258,0.000103673332636035,0.00053680592520763,0.000943205389140886,"Some predictor variables are on very different scales: consider rescaling. 
+You may also use (g)lmerControl(autoscale = TRUE) to improve numerical stability."
+95,2.985606,PASS,554641,139,0.000674675249382473,0.000103440173789155,0.000471932508755729,0.000877417990009218,"Some predictor variables are on very different scales: consider rescaling. 
+You may also use (g)lmerControl(autoscale = TRUE) to improve numerical stability."
+96,2.985606,PASS,554828,139,0.000729952746088365,0.000103324922235417,0.000527435898506947,0.000932469593669783,"Some predictor variables are on very different scales: consider rescaling. 
+You may also use (g)lmerControl(autoscale = TRUE) to improve numerical stability."
+964,2.985606,PASS,557876,139,0.000712440329031769,0.000103265148610886,0.000510040637754433,0.000914840020309105,"Some predictor variables are on very different scales: consider rescaling. 
+You may also use (g)lmerControl(autoscale = TRUE) to improve numerical stability."
+97,2.985606,PASS,553630,139,0.000728327828481709,0.000104372367501142,0.000523757988179469,0.000932897668783948,"Some predictor variables are on very different scales: consider rescaling. 
+You may also use (g)lmerControl(autoscale = TRUE) to improve numerical stability."

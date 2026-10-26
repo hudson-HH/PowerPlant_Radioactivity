@@ -1,0 +1,8 @@
+item,value,note
+formal_filter_rows,107407,Frozen formal filter-period sample
+formal_filter_monitors,133,Frozen eligible monitor universe
+environment_model_complete_rows,107407,Complete cases for all environmental covariates
+environment_model_monitors,133,Monitors retained in environmental model
+monitor_year_FE_groups,2222,Monitor × calendar-year fixed-effect groups
+primary_FE_terms,12,Expected primary estimable environmental coefficients = 12
+reference_random_intercept_status,PASS,""

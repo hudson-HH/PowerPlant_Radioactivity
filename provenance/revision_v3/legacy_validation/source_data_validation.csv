@@ -1,0 +1,9 @@
+file,rows,expected_rows,sha256,status,note
+main_figures/Figure4.csv,56,56,269517e1ac36f469eaa6eae672a3447bd84bfae19c93da9186963d8690af64b3,PASS,
+main_figures/Figure5.csv,168,168,a3e4f5e4a57cd118e97cf7324246280ac580b889eb6c8fbf285f3440b1bb7850,PASS,
+main_figures/Figure6A.csv,16,16,918aece217e0a2a91394fdb3b20c1f87e974b4375ef8ef1f6e6e21b98b283cf2,PASS,
+main_figures/Figure6B.csv,24,24,8f13e1731e232fe82b8e8d261b1d0e1b5f6484f095dd3540bece7626fde1f0b5,PASS,
+main_figures/Figure6C.csv,16,16,f8a7b17c0a723e97624f3ce0e2dc285294da066ba6128a2a726f13d022e8c2ea,PASS,
+sensitivity/03_current_and_natural_spline_effects.csv,112,112,dbc2f7a9d41da07438d849b25c45a555bc8f7ce0780c625f87ac8091f1e7bf04,PASS,
+sensitivity/H21_biomass_GFED_full.csv,14,14,de1c24df5bc06e2f2741e5013b97170a60e376dbaf6f43f5c014a77f6c1c5432,PASS,
+semantic_checks,,,,PASS,F4/H21 use sample-median wind; F6B uses 1 m/s; H21 M0/M1 n are equal

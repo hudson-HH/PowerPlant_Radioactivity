@@ -1,0 +1,3 @@
+metric,n_radii,n_current_positive,n_ns_positive,n_current_ci_above_zero,n_ns_ci_above_zero,n_sign_changed,median_percent_change,min_percent_change,max_percent_change,max_absolute_percent_change
+count,7,7,7,7,7,0,-19.4320345853517,-23.8275426832354,-19.4320345853517,23.8275426832354
+heat,7,7,7,7,7,0,-14.0855345809995,-19.9723306936698,-14.0855345809995,19.9723306936698

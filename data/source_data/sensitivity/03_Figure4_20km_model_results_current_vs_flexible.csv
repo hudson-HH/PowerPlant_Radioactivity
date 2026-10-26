@@ -1,0 +1,17 @@
+fuel,metric,model,status,n,n_monitors,wind_ms,estimate,se,ci95_low,ci95_high,p_wald,note
+coal,count,Current main model,FAIL,,,,,,,,,Exposure effect could not be extracted.
+coal,count,Flexible covariates,FAIL,,,,,,,,,Exposure effect could not be extracted.
+coal,heat,Current main model,FAIL,,,,,,,,,Exposure effect could not be extracted.
+coal,heat,Flexible covariates,FAIL,,,,,,,,,Exposure effect could not be extracted.
+gas,count,Current main model,FAIL,,,,,,,,,Exposure effect could not be extracted.
+gas,count,Flexible covariates,FAIL,,,,,,,,,Exposure effect could not be extracted.
+gas,heat,Current main model,FAIL,,,,,,,,,Exposure effect could not be extracted.
+gas,heat,Flexible covariates,FAIL,,,,,,,,,Exposure effect could not be extracted.
+oil,count,Current main model,FAIL,,,,,,,,,Exposure effect could not be extracted.
+oil,count,Flexible covariates,FAIL,,,,,,,,,Exposure effect could not be extracted.
+oil,heat,Current main model,FAIL,,,,,,,,,Exposure effect could not be extracted.
+oil,heat,Flexible covariates,FAIL,,,,,,,,,Exposure effect could not be extracted.
+biomass,count,Current main model,FAIL,,,,,,,,,Exposure effect could not be extracted.
+biomass,count,Flexible covariates,FAIL,,,,,,,,,Exposure effect could not be extracted.
+biomass,heat,Current main model,FAIL,,,,,,,,,Exposure effect could not be extracted.
+biomass,heat,Flexible covariates,FAIL,,,,,,,,,Exposure effect could not be extracted.

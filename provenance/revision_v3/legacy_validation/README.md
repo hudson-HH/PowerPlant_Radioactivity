@@ -1,0 +1,9 @@
+# Validation report interpretation
+
+`source_data_validation.csv`, `model_refit_summary.csv` and the per-analysis `*_refit_vs_frozen.csv` files are the authoritative numerical comparisons for the portable entry point. All reference rows must exist and all estimates, intervals, wind references and model counts must satisfy their specified tolerances. Figure 6 uses the separate mixed-model tolerance explained in the package README.
+
+The release curator also measured actual plot viewports for eight redraws. `*.alignment.json` reports use the original 1.5-point alignment/gutter tolerance; Figure 3's intentionally wider radius/wind panel is documented as the single width exemption. `*.cairo-aware-qa.json` checks use actual PDF line boxes and transformed font sizes, preserving the installed detector's stroke, clipping and overlap thresholds. These are release-time presentation checks, not statistical validation; they are not rerun by the public entry point.
+
+The raw generic collision-detector reports in `diagnostic_tool_limitations/` are preserved diagnostic evidence, not current figure verdicts. Cairo can put distant labels in a single text trace; applying its union box to each label creates spurious overlaps. Similarly, a raw `Tf=1` operator does not imply a one-point glyph when a text matrix scales it. The corrected geometry checks and visual inspection resolve these false positives. No numerical FAIL has been changed into PASS.
+
+`resolved_plotting_source_preflight.txt` has no failures but retains four warnings: actual R execution is required beyond delimiter checking; PNG is a 300-dpi review raster rather than a 600-dpi TIFF; and final journal dimensions are not fixed because no target journal was selected. Editable SVG and PDF are provided. This local package is not a claim of final production-specification approval.

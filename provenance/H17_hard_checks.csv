@@ -1,0 +1,9 @@
+check,observed,expected,status
+current_Figure4_vs_H10_main_within_tolerance,7.979728e-16,<=0.0000001,PASS
+Figure6A_rows_16,16,16,PASS
+Figure6B_rows_24,24,24,PASS
+Figure6C_rows_16,16,16,PASS
+Figure6A_all_finite,16,16,PASS
+Figure6B_all_finite,24,24,PASS
+Figure6C_all_finite,16,16,PASS
+Figure6_output_files_5,5,5,PASS

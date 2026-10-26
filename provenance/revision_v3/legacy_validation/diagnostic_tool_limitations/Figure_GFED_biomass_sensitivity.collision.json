@@ -1,0 +1,715 @@
+{
+  "pdf": "05_Deliverables/2026-09-29_Nature_manuscript/code_availability/outputs/figures/Figure_GFED_biomass_sensitivity.pdf",
+  "auditable": true,
+  "verdict": "FIX BEFORE DELIVERY",
+  "page_count": 1,
+  "visible_text_box_count": 24,
+  "text_trace_count": 15,
+  "stroke_path_count": 138,
+  "filled_region_count": 39,
+  "image_region_count": 0,
+  "summary": {
+    "fail": 22,
+    "warn": 2,
+    "contained_fill_overlays": 3,
+    "contained_image_overlays": 0
+  },
+  "thresholds": {
+    "text_inset_pt": 0.6,
+    "min_overlap_ratio": 0.05,
+    "clipping_tolerance_pt": 0.5
+  },
+  "findings": [
+    {
+      "severity": "FAIL",
+      "kind": "text-stroke",
+      "page": 1,
+      "message": "Text is crossed by 126 stroked path(s)",
+      "text": "Heat input",
+      "text_bbox": [
+        18.47265625,
+        103.96664428710938,
+        680.87109375,
+        592.5213623046875
+      ],
+      "other_text": null,
+      "other_bbox": [
+        38.46500015258789,
+        89.11699676513672,
+        715.02001953125,
+        583.5349731445312
+      ],
+      "object_count": 126,
+      "object_indexes": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        17,
+        18,
+        20,
+        21,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        38,
+        39,
+        41,
+        42,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        74,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81,
+        82,
+        83,
+        84,
+        85,
+        86,
+        87,
+        88,
+        89,
+        90,
+        91,
+        92,
+        93,
+        94,
+        95,
+        96,
+        97,
+        98,
+        99,
+        100,
+        101,
+        102,
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        109,
+        110,
+        111,
+        112,
+        113,
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        130,
+        131,
+        146,
+        147,
+        149,
+        150,
+        151,
+        152,
+        153,
+        154,
+        155,
+        156,
+        157,
+        158,
+        159,
+        160,
+        161,
+        162,
+        163,
+        164
+      ]
+    },
+    {
+      "severity": "FAIL",
+      "kind": "text-stroke",
+      "page": 1,
+      "message": "Text is crossed by 2 stroked path(s)",
+      "text": "Adjusted for GFED fire-sourced PM2.5",
+      "text_bbox": [
+        280.99609375,
+        45.56039810180664,
+        497.00543212890625,
+        53.56039810180664
+      ],
+      "other_text": null,
+      "other_bbox": [
+        418.7070007324219,
+        49.566001892089844,
+        432.531005859375,
+        49.566001892089844
+      ],
+      "object_count": 2,
+      "object_indexes": [
+        171,
+        172
+      ]
+    },
+    {
+      "severity": "FAIL",
+      "kind": "text-text",
+      "page": 1,
+      "message": "Text boxes overlap by 100.0% of the smaller box",
+      "text": "Heat input",
+      "text_bbox": [
+        18.47265625,
+        103.96664428710938,
+        680.87109375,
+        592.5213623046875
+      ],
+      "other_text": "20",
+      "other_bbox": [
+        75.55078125,
+        584.5213623046875,
+        83.998779296875,
+        592.5213623046875
+      ],
+      "object_count": 1,
+      "object_indexes": []
+    },
+    {
+      "severity": "FAIL",
+      "kind": "text-text",
+      "page": 1,
+      "message": "Text boxes overlap by 100.0% of the smaller box",
+      "text": "Heat input",
+      "text_bbox": [
+        18.47265625,
+        103.96664428710938,
+        680.87109375,
+        592.5213623046875
+      ],
+      "other_text": "25",
+      "other_bbox": [
+        175.03125,
+        584.5213623046875,
+        183.479248046875,
+        592.5213623046875
+      ],
+      "object_count": 1,
+      "object_indexes": []
+    },
+    {
+      "severity": "FAIL",
+      "kind": "text-text",
+      "page": 1,
+      "message": "Text boxes overlap by 100.0% of the smaller box",
+      "text": "Heat input",
+      "text_bbox": [
+        18.47265625,
+        103.96664428710938,
+        680.87109375,
+        592.5213623046875
+      ],
+      "other_text": "30",
+      "other_bbox": [
+        274.5078125,
+        584.5213623046875,
+        282.955810546875,
+        592.5213623046875
+      ],
+      "object_count": 1,
+      "object_indexes": []
+    },
+    {
+      "severity": "FAIL",
+      "kind": "text-text",
+      "page": 1,
+      "message": "Text boxes overlap by 100.0% of the smaller box",
+      "text": "Heat input",
+      "text_bbox": [
+        18.47265625,
+        103.96664428710938,
+        680.87109375,
+        592.5213623046875
+      ],
+      "other_text": "35",
+      "other_bbox": [
+        373.98828125,
+        584.5213623046875,
+        382.436279296875,
+        592.5213623046875
+      ],
+      "object_count": 1,
+      "object_indexes": []
+    },
+    {
+      "severity": "FAIL",
+      "kind": "text-text",
+      "page": 1,
+      "message": "Text boxes overlap by 100.0% of the smaller box",
+      "text": "Heat input",
+      "text_bbox": [
+        18.47265625,
+        103.96664428710938,
+        680.87109375,
+        592.5213623046875
+      ],
+      "other_text": "40",
+      "other_bbox": [
+        473.46484375,
+        584.5213623046875,
+        481.912841796875,
+        592.5213623046875
+      ],
+      "object_count": 1,
+      "object_indexes": []
+    },
+    {
+      "severity": "FAIL",
+      "kind": "text-text",
+      "page": 1,
+      "message": "Text boxes overlap by 100.0% of the smaller box",
+      "text": "Heat input",
+      "text_bbox": [
+        18.47265625,
+        103.96664428710938,
+        680.87109375,
+        592.5213623046875
+      ],
+      "other_text": "45",
+      "other_bbox": [
+        572.94140625,
+        584.5213623046875,
+        581.389404296875,
+        592.5213623046875
+      ],
+      "object_count": 1,
+      "object_indexes": []
+    },
+    {
+      "severity": "FAIL",
+      "kind": "text-text",
+      "page": 1,
+      "message": "Text boxes overlap by 100.0% of the smaller box",
+      "text": "Heat input",
+      "text_bbox": [
+        18.47265625,
+        103.96664428710938,
+        680.87109375,
+        592.5213623046875
+      ],
+      "other_text": "50",
+      "other_bbox": [
+        672.421875,
+        584.5213623046875,
+        680.869873046875,
+        592.5213623046875
+      ],
+      "object_count": 1,
+      "object_indexes": []
+    },
+    {
+      "severity": "FAIL",
+      "kind": "text-text",
+      "page": 1,
+      "message": "Text boxes overlap by 100.0% of the smaller box",
+      "text": "Heat input",
+      "text_bbox": [
+        18.47265625,
+        103.96664428710938,
+        680.87109375,
+        592.5213623046875
+      ],
+      "other_text": "0.000",
+      "other_bbox": [
+        18.47265625,
+        309.8963317871094,
+        36.920658111572266,
+        317.8963317871094
+      ],
+      "object_count": 1,
+      "object_indexes": []
+    },
+    {
+      "severity": "FAIL",
+      "kind": "text-text",
+      "page": 1,
+      "message": "Text boxes overlap by 100.0% of the smaller box",
+      "text": "Heat input",
+      "text_bbox": [
+        18.47265625,
+        103.96664428710938,
+        680.87109375,
+        592.5213623046875
+      ],
+      "other_text": "0.025",
+      "other_bbox": [
+        18.47265625,
+        258.4119567871094,
+        36.920658111572266,
+        266.4119567871094
+      ],
+      "object_count": 1,
+      "object_indexes": []
+    },
+    {
+      "severity": "FAIL",
+      "kind": "text-text",
+      "page": 1,
+      "message": "Text boxes overlap by 100.0% of the smaller box",
+      "text": "Heat input",
+      "text_bbox": [
+        18.47265625,
+        103.96664428710938,
+        680.87109375,
+        592.5213623046875
+      ],
+      "other_text": "0.050",
+      "other_bbox": [
+        18.47265625,
+        206.93148803710938,
+        36.920658111572266,
+        214.93148803710938
+      ],
+      "object_count": 1,
+      "object_indexes": []
+    },
+    {
+      "severity": "FAIL",
+      "kind": "text-text",
+      "page": 1,
+      "message": "Text boxes overlap by 100.0% of the smaller box",
+      "text": "Heat input",
+      "text_bbox": [
+        18.47265625,
+        103.96664428710938,
+        680.87109375,
+        592.5213623046875
+      ],
+      "other_text": "0.075",
+      "other_bbox": [
+        18.47265625,
+        155.44711303710938,
+        36.920658111572266,
+        163.44711303710938
+      ],
+      "object_count": 1,
+      "object_indexes": []
+    },
+    {
+      "severity": "FAIL",
+      "kind": "text-text",
+      "page": 1,
+      "message": "Text boxes overlap by 100.0% of the smaller box",
+      "text": "Heat input",
+      "text_bbox": [
+        18.47265625,
+        103.96664428710938,
+        680.87109375,
+        592.5213623046875
+      ],
+      "other_text": "0.100",
+      "other_bbox": [
+        18.47265625,
+        103.96664428710938,
+        36.920658111572266,
+        111.96664428710938
+      ],
+      "object_count": 1,
+      "object_indexes": []
+    },
+    {
+      "severity": "FAIL",
+      "kind": "text-text",
+      "page": 1,
+      "message": "Text boxes overlap by 100.0% of the smaller box",
+      "text": "Heat input",
+      "text_bbox": [
+        18.47265625,
+        103.96664428710938,
+        680.87109375,
+        592.5213623046875
+      ],
+      "other_text": "0.000",
+      "other_bbox": [
+        18.47265625,
+        395.8143005371094,
+        36.921875,
+        574.3338623046875
+      ],
+      "object_count": 1,
+      "object_indexes": []
+    },
+    {
+      "severity": "FAIL",
+      "kind": "text-text",
+      "page": 1,
+      "message": "Text boxes overlap by 100.0% of the smaller box",
+      "text": "Heat input",
+      "text_bbox": [
+        18.47265625,
+        103.96664428710938,
+        680.87109375,
+        592.5213623046875
+      ],
+      "other_text": "0.025",
+      "other_bbox": [
+        18.47265625,
+        509.4939880371094,
+        36.920658111572266,
+        517.4940185546875
+      ],
+      "object_count": 1,
+      "object_indexes": []
+    },
+    {
+      "severity": "FAIL",
+      "kind": "text-text",
+      "page": 1,
+      "message": "Text boxes overlap by 100.0% of the smaller box",
+      "text": "Heat input",
+      "text_bbox": [
+        18.47265625,
+        103.96664428710938,
+        680.87109375,
+        592.5213623046875
+      ],
+      "other_text": "0.050",
+      "other_bbox": [
+        18.47265625,
+        452.6541442871094,
+        36.920658111572266,
+        460.6541442871094
+      ],
+      "object_count": 1,
+      "object_indexes": []
+    },
+    {
+      "severity": "FAIL",
+      "kind": "text-text",
+      "page": 1,
+      "message": "Text boxes overlap by 100.0% of the smaller box",
+      "text": "Heat input",
+      "text_bbox": [
+        18.47265625,
+        103.96664428710938,
+        680.87109375,
+        592.5213623046875
+      ],
+      "other_text": "0.075",
+      "other_bbox": [
+        18.47265625,
+        395.8143005371094,
+        36.920658111572266,
+        403.8143005371094
+      ],
+      "object_count": 1,
+      "object_indexes": []
+    },
+    {
+      "severity": "FAIL",
+      "kind": "text-text",
+      "page": 1,
+      "message": "Text boxes overlap by 100.0% of the smaller box",
+      "text": "0.000",
+      "text_bbox": [
+        18.47265625,
+        395.8143005371094,
+        36.921875,
+        574.3338623046875
+      ],
+      "other_text": "0.025",
+      "other_bbox": [
+        18.47265625,
+        509.4939880371094,
+        36.920658111572266,
+        517.4940185546875
+      ],
+      "object_count": 1,
+      "object_indexes": []
+    },
+    {
+      "severity": "FAIL",
+      "kind": "text-text",
+      "page": 1,
+      "message": "Text boxes overlap by 100.0% of the smaller box",
+      "text": "0.000",
+      "text_bbox": [
+        18.47265625,
+        395.8143005371094,
+        36.921875,
+        574.3338623046875
+      ],
+      "other_text": "0.050",
+      "other_bbox": [
+        18.47265625,
+        452.6541442871094,
+        36.920658111572266,
+        460.6541442871094
+      ],
+      "object_count": 1,
+      "object_indexes": []
+    },
+    {
+      "severity": "FAIL",
+      "kind": "text-text",
+      "page": 1,
+      "message": "Text boxes overlap by 100.0% of the smaller box",
+      "text": "0.000",
+      "text_bbox": [
+        18.47265625,
+        395.8143005371094,
+        36.921875,
+        574.3338623046875
+      ],
+      "other_text": "0.075",
+      "other_bbox": [
+        18.47265625,
+        395.8143005371094,
+        36.920658111572266,
+        403.8143005371094
+      ],
+      "object_count": 1,
+      "object_indexes": []
+    },
+    {
+      "severity": "FAIL",
+      "kind": "text-text",
+      "page": 1,
+      "message": "Text boxes overlap by 100.0% of the smaller box",
+      "text": "Adjusted for GFED fire-sourced PM2.5",
+      "text_bbox": [
+        280.99609375,
+        45.56039810180664,
+        497.00543212890625,
+        53.56039810180664
+      ],
+      "other_text": "Reference model",
+      "other_bbox": [
+        439.236083984375,
+        45.560394287109375,
+        497.00408935546875,
+        53.56039810180664
+      ],
+      "object_count": 1,
+      "object_indexes": []
+    },
+    {
+      "severity": "WARN",
+      "kind": "text-fill-edge",
+      "page": 1,
+      "message": "Text partially overlaps the edge of 29 filled region(s)",
+      "text": "Heat input",
+      "text_bbox": [
+        18.47265625,
+        103.96664428710938,
+        680.87109375,
+        592.5213623046875
+      ],
+      "other_text": null,
+      "other_bbox": [
+        40.957000732421875,
+        145.0,
+        715.01904296875,
+        449.5780029296875
+      ],
+      "object_count": 29,
+      "object_indexes": [
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        132,
+        133,
+        134,
+        135,
+        136,
+        137,
+        138,
+        139,
+        140,
+        141,
+        142,
+        143,
+        144,
+        145,
+        147000
+      ]
+    },
+    {
+      "severity": "WARN",
+      "kind": "text-fill-edge",
+      "page": 1,
+      "message": "Text partially overlaps the edge of 2 filled region(s)",
+      "text": "Adjusted for GFED fire-sourced PM2.5",
+      "text_bbox": [
+        280.99609375,
+        45.56039810180664,
+        497.00543212890625,
+        53.56039810180664
+      ],
+      "other_text": null,
+      "other_bbox": [
+        416.97698974609375,
+        40.92599868774414,
+        434.25799560546875,
+        58.207000732421875
+      ],
+      "object_count": 2,
+      "object_indexes": [
+        170000,
+        173
+      ]
+    }
+  ]
+}

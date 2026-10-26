@@ -1,0 +1,9 @@
+id,covariate,variable,df,n_finite,internal_knots,boundary_knots,basis_columns
+cprop,Continental air-mass proportion,c_prop,3,107407,0.755381604697 | 0.941780821918,0.0146771037182 | 1.0000000000000,ns_cprop_1 | ns_cprop_2 | ns_cprop_3
+sunspot,Monthly sunspot number,sunspot_monthly,3,107407,21.4 | 80.5,0.000000000 | 238.166666667,ns_sunspot_1 | ns_sunspot_2 | ns_sunspot_3
+pm25,PM2.5,pm_model_centered,3,107407,-3.159389965686 | 0.381463679487,-10.000 | 24.975,ns_pm25_1 | ns_pm25_2 | ns_pm25_3
+invhpbl,Inverse PBLH,inv_hpbl,3,107407,0.00113140305851 | 0.00150115789074,0.000333575244171 | 0.006772294754630,ns_invhpbl_1 | ns_invhpbl_2 | ns_invhpbl_3
+rhum,Relative humidity,rhum,3,107407,69.6422195435 | 78.4144659042,5.87161064148 | 98.02947998047,ns_rhum_1 | ns_rhum_2 | ns_rhum_3
+soilm,Soil moisture,soilm,3,107407,458.754325867 | 586.073893229,87.7071075439 | 925.4984232585,ns_soilm_1 | ns_soilm_2 | ns_soilm_3
+wind,Wind speed,vel,3,107407,2.69890300672 | 3.65596881241,0.145003812464 | 5.999828154441,ns_wind_1 | ns_wind_2 | ns_wind_3
+temperature,Temperature,temp_centered,3,107407,9.9671875000 | 20.6827941895,-27.1947743734 | 38.9243495396,ns_temperature_1 | ns_temperature_2 | ns_temperature_3

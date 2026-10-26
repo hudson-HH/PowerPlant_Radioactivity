@@ -1,0 +1,44 @@
+# R
+.Rhistory
+.Rapp.history
+.RData
+.Ruserdata
+.Rproj.user/
+*.Rproj
+renv/library/
+renv/staging/
+packrat/lib*/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+
+# Credentials and editors
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+.vscode/
+.idea/
+*~
+*.swp
+*.swo
+*.tmp
+
+# macOS
+.DS_Store
+._*
+__MACOSX/
+.Spotlight-V100/
+.Trashes/
+
+# New runtime directories; supplied historical outputs remain tracked.
+/outputs/v1_intermediates/
+/outputs/display_updates/
+/outputs/display_work/
+/validation/

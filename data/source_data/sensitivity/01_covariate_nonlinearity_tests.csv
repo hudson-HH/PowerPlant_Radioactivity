@@ -1,0 +1,9 @@
+id,covariate,variable,N,N_monitors,quadratic_term,cubic_term,Wald_chisq,df,P_nonlinearity,note,P_BH,conclusion
+pm25,PM2.5,pm_model_centered,107367,133,nl2,nl3,69.6531478598987,2,0.000000000000000749913408059011,"",0.00000000000000299965363223604,Evidence of nonlinearity
+rhum,Relative humidity,rhum,107367,133,nl2,nl3,1.76838407061477,2,0.413047766506829,"",0.413047766506829,No strong evidence of nonlinearity
+soilm,Soil moisture,soilm,107367,133,nl2,nl3,26.0827132431443,2,0.00000216875644483857,"",0.00000347001031174171,Evidence of nonlinearity
+wind,Wind speed,vel,107367,133,nl2,nl3,34.2140451557911,2,0.0000000371975633969127,"",0.0000000743951267938253,Evidence of nonlinearity
+cprop,Continental air-mass proportion,c_prop,107367,133,nl2,nl3,55.198482461449,2,0.00000000000103229025793632,"",0.00000000000275277402116351,Evidence of nonlinearity
+sunspot,Monthly sunspot number,sunspot_monthly,107367,133,nl2,nl3,8.60544996964192,2,0.013531635226077,"",0.018042180301436,Evidence of nonlinearity
+invhpbl,Inverse PBLH,inv_hpbl,107367,133,nl2,nl3,3.56494741299623,2,0.168221501529965,"",0.192253144605674,No strong evidence of nonlinearity
+temperature,Temperature,temp_centered,107367,133,temp2,temp3,71.9704306945666,2,0.000000000000000235407093128665,"",0.00000000000000188325674502932,Evidence of nonlinearity

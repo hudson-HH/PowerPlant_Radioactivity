@@ -1,0 +1,8 @@
+check,observed,expected,status
+formal_rows,107407,107407,PASS
+formal_monitors,133,133,PASS
+daily_files,24,24,PASS
+daily_join_unmatched,0,0,PASS
+nonlinearity_tests_finite,8,8,PASS
+exposure_models_PASS,16,16,PASS
+Figure4_reproduction,4.163336e-17,<=1e-7,PASS

@@ -1,0 +1,31 @@
+{
+  "input_files_accounted_for": 335,
+  "byte_identical_input_files": 313,
+  "all_data_and_legacy_bodies_byte_identical": true,
+  "prepared_data": [
+    {
+      "file": "data/prepared_model_data/filter_period_primary_2001_2024.csv.gz",
+      "rows": 107407,
+      "columns": 136,
+      "sha256": "501f12295964a79f8baecfd681074cc61af9e730790ee19b40d02428cc8c657f"
+    },
+    {
+      "file": "data/prepared_model_data/filter_period_biomass_GFED_2001_2023.csv.gz",
+      "rows": 103196,
+      "columns": 33,
+      "sha256": "cf83e2778a372ccb9738d4660d5c4fa45314cc385dc60f78df1c7b2fe268cef5"
+    }
+  ],
+  "active_R_syntax": "18 files parsed without evaluating; PASS",
+  "python_syntax": "PASS",
+  "entry_point_steps_present": true,
+  "run_all_unchanged": true,
+  "common_R_unchanged": true,
+  "all_filenames_English": true,
+  "R_pipeline_executed": false,
+  "models_refitted": false,
+  "Figure6_covariance": "Fresh archived-record check: 56 rows PASS; see Figure6_covariance_verification.json",
+  "renamed_path_entries": 83,
+  "path_changes_report": "provenance/path_changes.csv",
+  "input_zip_sha256": "c45c2a47bf8980ea2a3aec42ddf881a02062ab7f3bfbf35c36c30f7acdab2ff8"
+}

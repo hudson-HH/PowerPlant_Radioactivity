@@ -1,0 +1,33 @@
+fuel,metric,model,wind_reference,wind_ms,estimate,ci_low,ci_high,fuel_label,metric_label
+coal,count,Monitor × year FE,Sample median,3.15442053456934,0.000578355987759498,-0.00999300075477156,0.0111497127302906,Coal,"Active plant count
+(per additional active plant)"
+coal,heat,Monitor × year FE,Sample median,3.15275005725255,0.000542157760351797,0.000028718651931248,0.00105559686877235,Coal,"Actual daily Heat Input
+(per 10,000 MMBtu/day)"
+gas,count,Monitor × year FE,Sample median,3.15442053456934,0.00190128610647951,-0.00285173262293356,0.00665430483589259,Natural gas,"Active plant count
+(per additional active plant)"
+gas,heat,Monitor × year FE,Sample median,3.13870352480861,0.00036994789768721,-0.000400449742653907,0.00114034553802833,Natural gas,"Actual daily Heat Input
+(per 10,000 MMBtu/day)"
+oil,count,Monitor × year FE,Sample median,3.15442053456934,-0.0129844940597982,-0.0198348386120792,-0.00613414950751723,Oil,"Active plant count
+(per additional active plant)"
+oil,heat,Monitor × year FE,Sample median,3.13587557596978,-0.00261634736148273,-0.00769254293351177,0.00245984821054632,Oil,"Actual daily Heat Input
+(per 10,000 MMBtu/day)"
+biomass,count,Monitor × year FE,Sample median,3.15442053456934,0.0788972878549013,0.0500758176340676,0.107718758075735,Biomass,"Active plant count
+(per additional active plant)"
+biomass,heat,Monitor × year FE,Sample median,3.15442053456934,0.0630865064835093,0.0272650484643976,0.098907964502621,Biomass,"Actual daily Heat Input
+(per 10,000 MMBtu/day)"
+coal,count,Monitor × year + common-time FE,Sample median,3.15442053456934,0.00447098636818285,-0.005330331075619,0.0142723038119847,Coal,"Active plant count
+(per additional active plant)"
+coal,heat,Monitor × year + common-time FE,Sample median,3.15275005725255,0.000447495477072807,-0.000242596592800607,0.00113758754694622,Coal,"Actual daily Heat Input
+(per 10,000 MMBtu/day)"
+gas,count,Monitor × year + common-time FE,Sample median,3.15442053456934,0.000171701636597875,-0.00372101943554776,0.00406442270874351,Natural gas,"Active plant count
+(per additional active plant)"
+gas,heat,Monitor × year + common-time FE,Sample median,3.13870352480861,0.000128127878974098,-0.000984291951974319,0.00124054770992252,Natural gas,"Actual daily Heat Input
+(per 10,000 MMBtu/day)"
+oil,count,Monitor × year + common-time FE,Sample median,3.15442053456934,-0.0007299725444187,-0.0077162043178252,0.0062562592289878,Oil,"Active plant count
+(per additional active plant)"
+oil,heat,Monitor × year + common-time FE,Sample median,3.13587557596978,-0.00192012045503089,-0.00482799022473361,0.00098774931467182,Oil,"Actual daily Heat Input
+(per 10,000 MMBtu/day)"
+biomass,count,Monitor × year + common-time FE,Sample median,3.15442053456934,0.0873799057453609,0.0611284136375464,0.113631397853175,Biomass,"Active plant count
+(per additional active plant)"
+biomass,heat,Monitor × year + common-time FE,Sample median,3.15442053456934,0.0685305089755122,0.0329529122656179,0.104108105685406,Biomass,"Actual daily Heat Input
+(per 10,000 MMBtu/day)"

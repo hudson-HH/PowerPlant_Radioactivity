@@ -1,0 +1,351 @@
+{
+  "text_files_scanned": 299,
+  "gzip_text_files_included": 2,
+  "secrets_found": [],
+  "noncontact_emails": [],
+  "retained_personal_path_occurrences": 68,
+  "retained_personal_path_files": 62,
+  "path_findings": [
+    {
+      "file": "legacy_scripts/figures_tables/07H12_assemble_manuscript_figures_and_tables.R",
+      "line": 45,
+      "disposition": "retained historical external-tree path"
+    },
+    {
+      "file": "legacy_scripts/figures_tables/07H12_fix_Figure1_only.R",
+      "line": 28,
+      "disposition": "retained historical external-tree path"
+    },
+    {
+      "file": "legacy_scripts/figures_tables/07H12_fix_Figure3_overall_count_sensitivity.R",
+      "line": 50,
+      "disposition": "retained historical external-tree path"
+    },
+    {
+      "file": "legacy_scripts/figures_tables/07H16_Figures4_5_main_and_monitor_FE_supplement.R",
+      "line": 92,
+      "disposition": "retained historical external-tree path"
+    },
+    {
+      "file": "legacy_scripts/figures_tables/07H17_Figure6_internal_validity_and_robustness.R",
+      "line": 79,
+      "disposition": "retained historical external-tree path"
+    },
+    {
+      "file": "legacy_scripts/figures_tables/07H18B_environmental_covariate_manuscript_table.R",
+      "line": 54,
+      "disposition": "retained historical external-tree path"
+    },
+    {
+      "file": "legacy_scripts/figures_tables/07H19_supplement_SFig2_SFig4_TablesS2_S3_S4.R",
+      "line": 91,
+      "disposition": "retained historical external-tree path"
+    },
+    {
+      "file": "legacy_scripts/figures_tables/07H19_supplement_SFig2_SFig4_TablesS2_S3_S4.R",
+      "line": 3846,
+      "disposition": "retained historical external-tree path"
+    },
+    {
+      "file": "legacy_scripts/figures_tables/07H19_supplement_SFig2_SFig4_TablesS2_S3_S4.R",
+      "line": 6543,
+      "disposition": "retained historical external-tree path"
+    },
+    {
+      "file": "legacy_scripts/models/07H10_fuel_specific_within_monitor_year_primary_analysis.R",
+      "line": 57,
+      "disposition": "retained historical external-tree path"
+    },
+    {
+      "file": "legacy_scripts/models/07H14_model_ladder_random_intercept_to_monitor_year_FE.R",
+      "line": 47,
+      "disposition": "retained historical external-tree path"
+    },
+    {
+      "file": "legacy_scripts/models/07H15_two_monitor_FE_multiwind_Figures4_5_diagnostics.R",
+      "line": 46,
+      "disposition": "retained historical external-tree path"
+    },
+    {
+      "file": "legacy_scripts/models/07H16_Figures4_5_main_and_monitor_FE_supplement.R",
+      "line": 92,
+      "disposition": "retained historical external-tree path"
+    },
+    {
+      "file": "legacy_scripts/models/07H18_environmental_covariates_gross_beta_table.R",
+      "line": 78,
+      "disposition": "retained historical external-tree path"
+    },
+    {
+      "file": "legacy_scripts/models/07H20B_natural_spline_sensitivity.R",
+      "line": 60,
+      "disposition": "retained historical external-tree path"
+    },
+    {
+      "file": "legacy_scripts/models/07H20_covariate_functional_form_sensitivity.R",
+      "line": 42,
+      "disposition": "retained historical external-tree path"
+    },
+    {
+      "file": "legacy_scripts/models/07H21_GFED_fire_PM2.5_biomass_sensitivity.R",
+      "line": 63,
+      "disposition": "retained historical external-tree path"
+    },
+    {
+      "file": "legacy_scripts/models/07H21_GFED_fire_PM2.5_biomass_sensitivity.R",
+      "line": 99,
+      "disposition": "retained historical external-tree path"
+    },
+    {
+      "file": "legacy_scripts/preprocessing/07F_build_formal_analysis_data.R",
+      "line": 60,
+      "disposition": "retained historical external-tree path"
+    },
+    {
+      "file": "legacy_scripts/preprocessing/07H01_build_fuel_specific_daily_exposures.R",
+      "line": 49,
+      "disposition": "retained historical external-tree path"
+    },
+    {
+      "file": "legacy_scripts/referenced_source_tree/confounders/08A4_HYSPLIT_air_mass_origin/HYSPLIT_processed/01_HYSPLIT_manuscript_methods.R",
+      "line": 24,
+      "disposition": "retained historical external-tree path"
+    },
+    {
+      "file": "legacy_scripts/referenced_source_tree/confounders/NARR/NARR_processed/01_NARR_manuscript_methods.R",
+      "line": 11,
+      "disposition": "retained historical external-tree path"
+    },
+    {
+      "file": "legacy_scripts/referenced_source_tree/confounders/PM2.5/PM2.5_processed/01_PM2.5_manuscript_methods.R",
+      "line": 46,
+      "disposition": "retained historical external-tree path"
+    },
+    {
+      "file": "legacy_scripts/referenced_source_tree/confounders/merged_confounders/01_merge_environmental_confounders.R",
+      "line": 9,
+      "disposition": "retained historical external-tree path"
+    },
+    {
+      "file": "legacy_scripts/referenced_source_tree/confounders/sunspots/sunspots_processed/01_sunspot_manuscript_methods.R",
+      "line": 9,
+      "disposition": "retained historical external-tree path"
+    },
+    {
+      "file": "legacy_scripts/referenced_source_tree/confounders/surface_uranium/surface_uranium_processed/01_surface_uranium_manuscript_methods.R",
+      "line": 61,
+      "disposition": "retained historical external-tree path"
+    },
+    {
+      "file": "legacy_scripts/referenced_source_tree/powerplant_data_processing/01_powerplant_monthly_daily_source_enhancement_frozen/07B2_CAMPD_daily_emissions/07B2_CAMPD_daily_download_then_process.R",
+      "line": 79,
+      "disposition": "retained historical external-tree path"
+    },
+    {
+      "file": "legacy_scripts/referenced_source_tree/powerplant_data_processing/06_07H_fuel_specific_CAMPD_daily_exposures_and_models/07H01_build_fuel_specific_daily_exposures.R",
+      "line": 49,
+      "disposition": "retained historical external-tree path"
+    },
+    {
+      "file": "legacy_scripts/referenced_source_tree/powerplant_data_processing/06_07H_fuel_specific_CAMPD_daily_exposures_and_models/07H02_fuel_specific_count_heat_cumulative_radius_models.R",
+      "line": 100,
+      "disposition": "retained historical external-tree path"
+    },
+    {
+      "file": "legacy_scripts/referenced_source_tree/powerplant_data_processing/06_07H_fuel_specific_CAMPD_daily_exposures_and_models/07H03_audit_and_summarize_count_heat_models.R",
+      "line": 433,
+      "disposition": "retained historical external-tree path"
+    },
+    {
+      "file": "legacy_scripts/referenced_source_tree/powerplant_data_processing/06_07H_fuel_specific_CAMPD_daily_exposures_and_models/07H03_final_freeze_audit.R",
+      "line": 31,
+      "disposition": "retained historical external-tree path"
+    },
+    {
+      "file": "legacy_scripts/referenced_source_tree/powerplant_data_processing/06_07H_fuel_specific_CAMPD_daily_exposures_and_models/07H04_build_distance_weighted_daily_exposures.R",
+      "line": 52,
+      "disposition": "retained historical external-tree path"
+    },
+    {
+      "file": "legacy_scripts/referenced_source_tree/powerplant_data_processing/06_07H_fuel_specific_CAMPD_daily_exposures_and_models/07H05_distance_weighted_sensitivity_models.R",
+      "line": 293,
+      "disposition": "retained historical external-tree path"
+    },
+    {
+      "file": "legacy_scripts/referenced_source_tree/powerplant_data_processing/06_07H_fuel_specific_CAMPD_daily_exposures_and_models/07H06_primary_and_distance_weighted_sensitivity_audit.R",
+      "line": 324,
+      "disposition": "retained historical external-tree path"
+    },
+    {
+      "file": "legacy_scripts/referenced_source_tree/powerplant_data_processing/06_07H_fuel_specific_CAMPD_daily_exposures_and_models/07H07_final_freeze_audit.R",
+      "line": 17,
+      "disposition": "retained historical external-tree path"
+    },
+    {
+      "file": "legacy_scripts/referenced_source_tree/powerplant_data_processing/06_07H_fuel_specific_CAMPD_daily_exposures_and_models/07H07_prepare_manuscript_tables_and_figures.R",
+      "line": 415,
+      "disposition": "retained historical external-tree path"
+    },
+    {
+      "file": "legacy_scripts/referenced_source_tree/powerplant_data_processing/06_07H_fuel_specific_CAMPD_daily_exposures_and_models/07H08_model_effect_direction_audit.R",
+      "line": 84,
+      "disposition": "retained historical external-tree path"
+    },
+    {
+      "file": "legacy_scripts/referenced_source_tree/powerplant_data_processing/06_07H_fuel_specific_CAMPD_daily_exposures_and_models/07H09B_strict_monitor_year_FE_validation.R",
+      "line": 201,
+      "disposition": "retained historical external-tree path"
+    },
+    {
+      "file": "legacy_scripts/referenced_source_tree/powerplant_data_processing/06_07H_fuel_specific_CAMPD_daily_exposures_and_models/07H09_within_monitor_year_and_continuous_wind_diagnostics.R",
+      "line": 228,
+      "disposition": "retained historical external-tree path"
+    },
+    {
+      "file": "legacy_scripts/referenced_source_tree/powerplant_data_processing/06_07H_fuel_specific_CAMPD_daily_exposures_and_models/07H10_fuel_specific_within_monitor_year_primary_analysis.R",
+      "line": 57,
+      "disposition": "retained historical external-tree path"
+    },
+    {
+      "file": "legacy_scripts/referenced_source_tree/powerplant_data_processing/06_07H_fuel_specific_CAMPD_daily_exposures_and_models/07H11_results_audit_and_manuscript_summary.R",
+      "line": 296,
+      "disposition": "retained historical external-tree path"
+    },
+    {
+      "file": "legacy_scripts/referenced_source_tree/powerplant_data_processing/06_07H_fuel_specific_CAMPD_daily_exposures_and_models/07H12_Figure3_final.R",
+      "line": 53,
+      "disposition": "retained historical external-tree path"
+    },
+    {
+      "file": "legacy_scripts/referenced_source_tree/powerplant_data_processing/06_07H_fuel_specific_CAMPD_daily_exposures_and_models/07H12_Table1_descriptive_statistics.R",
+      "line": 52,
+      "disposition": "retained historical external-tree path"
+    },
+    {
+      "file": "legacy_scripts/referenced_source_tree/powerplant_data_processing/06_07H_fuel_specific_CAMPD_daily_exposures_and_models/07H12_assemble_manuscript_figures_and_tables.R",
+      "line": 45,
+      "disposition": "retained historical external-tree path"
+    },
+    {
+      "file": "legacy_scripts/referenced_source_tree/powerplant_data_processing/06_07H_fuel_specific_CAMPD_daily_exposures_and_models/07H12_fix_Figure1_only.R",
+      "line": 28,
+      "disposition": "retained historical external-tree path"
+    },
+    {
+      "file": "legacy_scripts/referenced_source_tree/powerplant_data_processing/06_07H_fuel_specific_CAMPD_daily_exposures_and_models/07H12_fix_Figure3_overall_count_sensitivity.R",
+      "line": 50,
+      "disposition": "retained historical external-tree path"
+    },
+    {
+      "file": "legacy_scripts/referenced_source_tree/powerplant_data_processing/06_07H_fuel_specific_CAMPD_daily_exposures_and_models/07H13_nondirectional_fuel_specific_operation_Figures4_5.R",
+      "line": 58,
+      "disposition": "retained historical external-tree path"
+    },
+    {
+      "file": "legacy_scripts/referenced_source_tree/powerplant_data_processing/06_07H_fuel_specific_CAMPD_daily_exposures_and_models/07H14_model_ladder_random_intercept_to_monitor_year_FE.R",
+      "line": 47,
+      "disposition": "retained historical external-tree path"
+    },
+    {
+      "file": "legacy_scripts/referenced_source_tree/powerplant_data_processing/06_07H_fuel_specific_CAMPD_daily_exposures_and_models/07H15A0_build_OtherFossil_SolidWaste_360_daily_exposures.R",
+      "line": 39,
+      "disposition": "retained historical external-tree path"
+    },
+    {
+      "file": "legacy_scripts/referenced_source_tree/powerplant_data_processing/06_07H_fuel_specific_CAMPD_daily_exposures_and_models/07H15A_extended_fuels_monitor_FE_multiwind_Figures4_5.R",
+      "line": 46,
+      "disposition": "retained historical external-tree path"
+    },
+    {
+      "file": "legacy_scripts/referenced_source_tree/powerplant_data_processing/06_07H_fuel_specific_CAMPD_daily_exposures_and_models/07H15C0_build_noncombustion_90deg_upwind_count_20_50km.R",
+      "line": 50,
+      "disposition": "retained historical external-tree path"
+    },
+    {
+      "file": "legacy_scripts/referenced_source_tree/powerplant_data_processing/06_07H_fuel_specific_CAMPD_daily_exposures_and_models/07H15C_combustion_noncombustion_group_supplement.R",
+      "line": 66,
+      "disposition": "retained historical external-tree path"
+    },
+    {
+      "file": "legacy_scripts/referenced_source_tree/powerplant_data_processing/06_07H_fuel_specific_CAMPD_daily_exposures_and_models/07H15D_combustion_adjusted_for_noncombustion.R",
+      "line": 75,
+      "disposition": "retained historical external-tree path"
+    },
+    {
+      "file": "legacy_scripts/referenced_source_tree/powerplant_data_processing/06_07H_fuel_specific_CAMPD_daily_exposures_and_models/07H15_two_monitor_FE_multiwind_Figures4_5_diagnostics.R",
+      "line": 46,
+      "disposition": "retained historical external-tree path"
+    },
+    {
+      "file": "legacy_scripts/referenced_source_tree/powerplant_data_processing/06_07H_fuel_specific_CAMPD_daily_exposures_and_models/07H16_Figures4_5_main_and_monitor_FE_supplement.R",
+      "line": 92,
+      "disposition": "retained historical external-tree path"
+    },
+    {
+      "file": "legacy_scripts/referenced_source_tree/powerplant_data_processing/06_07H_fuel_specific_CAMPD_daily_exposures_and_models/07H17_Figure6_internal_validity_and_robustness.R",
+      "line": 79,
+      "disposition": "retained historical external-tree path"
+    },
+    {
+      "file": "legacy_scripts/referenced_source_tree/powerplant_data_processing/06_07H_fuel_specific_CAMPD_daily_exposures_and_models/07H18B_environmental_covariate_manuscript_table.R",
+      "line": 54,
+      "disposition": "retained historical external-tree path"
+    },
+    {
+      "file": "legacy_scripts/referenced_source_tree/powerplant_data_processing/06_07H_fuel_specific_CAMPD_daily_exposures_and_models/07H18_environmental_covariates_gross_beta_table.R",
+      "line": 78,
+      "disposition": "retained historical external-tree path"
+    },
+    {
+      "file": "legacy_scripts/referenced_source_tree/powerplant_data_processing/06_07H_fuel_specific_CAMPD_daily_exposures_and_models/07H19_supplement_SFig2_SFig4_TablesS2_S3_S4.R",
+      "line": 91,
+      "disposition": "retained historical external-tree path"
+    },
+    {
+      "file": "legacy_scripts/referenced_source_tree/powerplant_data_processing/06_07H_fuel_specific_CAMPD_daily_exposures_and_models/07H19_supplement_SFig2_SFig4_TablesS2_S3_S4.R",
+      "line": 3846,
+      "disposition": "retained historical external-tree path"
+    },
+    {
+      "file": "legacy_scripts/referenced_source_tree/powerplant_data_processing/06_07H_fuel_specific_CAMPD_daily_exposures_and_models/07H19_supplement_SFig2_SFig4_TablesS2_S3_S4.R",
+      "line": 6543,
+      "disposition": "retained historical external-tree path"
+    },
+    {
+      "file": "legacy_scripts/referenced_source_tree/powerplant_data_processing/06_07H_fuel_specific_CAMPD_daily_exposures_and_models/07H20B_natural_spline_sensitivity.R",
+      "line": 60,
+      "disposition": "retained historical external-tree path"
+    },
+    {
+      "file": "legacy_scripts/referenced_source_tree/powerplant_data_processing/06_07H_fuel_specific_CAMPD_daily_exposures_and_models/07H20_covariate_functional_form_sensitivity.R",
+      "line": 42,
+      "disposition": "retained historical external-tree path"
+    },
+    {
+      "file": "legacy_scripts/referenced_source_tree/powerplant_data_processing/06_07H_fuel_specific_CAMPD_daily_exposures_and_models/07H21_GFED_fire_PM2.5_biomass_sensitivity/07H21_GFED_fire_PM2.5_biomass_sensitivity.R",
+      "line": 63,
+      "disposition": "retained historical external-tree path"
+    },
+    {
+      "file": "legacy_scripts/referenced_source_tree/powerplant_data_processing/06_07H_fuel_specific_CAMPD_daily_exposures_and_models/07H21_GFED_fire_PM2.5_biomass_sensitivity/07H21_GFED_fire_PM2.5_biomass_sensitivity.R",
+      "line": 99,
+      "disposition": "retained historical external-tree path"
+    },
+    {
+      "file": "legacy_scripts/referenced_source_tree/radnet_monitoring_data/radnet_quasi_daily_manuscript_methods.R",
+      "line": 28,
+      "disposition": "retained historical external-tree path"
+    },
+    {
+      "file": "legacy_scripts/referenced_source_tree/radnet_name_standardization/01_radnet_181_monitor_name_standardization.R",
+      "line": 3,
+      "disposition": "retained historical external-tree path"
+    },
+    {
+      "file": "legacy_scripts/referenced_source_tree/radnet_name_standardization/03_radnet_CONUS_primary_flags_and_PM_coverage.R",
+      "line": 24,
+      "disposition": "retained historical external-tree path"
+    }
+  ],
+  "scope": "All UTF-8 text, generated audit reports, and decompressed .gz text; Git internals excluded. Immutable historical RDS records may retain original source paths."
+}

@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "backend": "r-patchwork-forced-viewport",
+  "figure": {
+    "width_pt": 792,
+    "height_pt": 417.6
+  },
+  "panels": [
+    {
+      "id": "a",
+      "bbox_pt": [55.7266201743463, 124.686540473225, 313.273152841025, 357.00100373599],
+      "grid_id": "patchwork-grid-1",
+      "row_start": 12,
+      "row_stop": 13,
+      "col_start": 8,
+      "col_stop": 9
+    },
+    {
+      "id": "b",
+      "bbox_pt": [356.630980985483, 124.686540473225, 547.406190368209, 357.00100373599],
+      "grid_id": "patchwork-grid-1",
+      "row_start": 12,
+      "row_stop": 13,
+      "col_start": 23,
+      "col_stop": 24
+    },
+    {
+      "id": "c",
+      "bbox_pt": [590.764018512667, 124.686540473225, 781.539227895392, 357.00100373599],
+      "grid_id": "patchwork-grid-1",
+      "row_start": 12,
+      "row_stop": 13,
+      "col_start": 38,
+      "col_stop": 39
+    }
+  ],
+  "exemptions": [
+    {
+      "panels": "a",
+      "checks": "panel-width",
+      "reason": "Radius/wind is the intentionally wider hero panel"
+    }
+  ],
+  "row_groups": [
+    ["a", "b", "c"]
+  ]
+}

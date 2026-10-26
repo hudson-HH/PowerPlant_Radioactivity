@@ -1,0 +1,1003 @@
+{
+  "pdf": "05_Deliverables/2026-09-29_Nature_manuscript/code_availability/outputs/figures/Figure6_internal_validity_and_key_robustness.pdf",
+  "auditable": true,
+  "verdict": "FIX BEFORE DELIVERY",
+  "page_count": 1,
+  "visible_text_box_count": 70,
+  "text_trace_count": 42,
+  "stroke_path_count": 290,
+  "filled_region_count": 90,
+  "image_region_count": 0,
+  "summary": {
+    "fail": 41,
+    "warn": 3,
+    "contained_fill_overlays": 13,
+    "contained_image_overlays": 0
+  },
+  "thresholds": {
+    "text_inset_pt": 0.6,
+    "min_overlap_ratio": 0.05,
+    "clipping_tolerance_pt": 0.5
+  },
+  "findings": [
+    {
+      "severity": "FAIL",
+      "kind": "text-text",
+      "page": 1,
+      "message": "Text boxes overlap by 100.0% of the smaller box",
+      "text": "0.00",
+      "text_bbox": [
+        23.953125,
+        58.18930435180664,
+        38.40234375,
+        185.40414428710938
+      ],
+      "other_text": "0.04",
+      "other_bbox": [
+        23.953125,
+        137.66586303710938,
+        38.401126861572266,
+        145.66586303710938
+      ],
+      "object_count": 1,
+      "object_indexes": []
+    },
+    {
+      "severity": "FAIL",
+      "kind": "text-text",
+      "page": 1,
+      "message": "Text boxes overlap by 100.0% of the smaller box",
+      "text": "0.00",
+      "text_bbox": [
+        23.953125,
+        58.18930435180664,
+        38.40234375,
+        185.40414428710938
+      ],
+      "other_text": "0.08",
+      "other_bbox": [
+        23.953125,
+        97.92758178710938,
+        38.401126861572266,
+        105.92758178710938
+      ],
+      "object_count": 1,
+      "object_indexes": []
+    },
+    {
+      "severity": "FAIL",
+      "kind": "text-text",
+      "page": 1,
+      "message": "Text boxes overlap by 100.0% of the smaller box",
+      "text": "0.00",
+      "text_bbox": [
+        23.953125,
+        58.18930435180664,
+        38.40234375,
+        185.40414428710938
+      ],
+      "other_text": "0.12",
+      "other_bbox": [
+        23.953125,
+        58.189300537109375,
+        38.401126861572266,
+        66.18930053710938
+      ],
+      "object_count": 1,
+      "object_indexes": []
+    },
+    {
+      "severity": "FAIL",
+      "kind": "text-text",
+      "page": 1,
+      "message": "Text boxes overlap by 100.0% of the smaller box",
+      "text": "0.00",
+      "text_bbox": [
+        23.953125,
+        582.4862060546875,
+        38.40234375,
+        696.0252685546875
+      ],
+      "other_text": "0.05",
+      "other_bbox": [
+        23.953125,
+        652.8455810546875,
+        38.401126861572266,
+        660.8455810546875
+      ],
+      "object_count": 1,
+      "object_indexes": []
+    },
+    {
+      "severity": "FAIL",
+      "kind": "text-text",
+      "page": 1,
+      "message": "Text boxes overlap by 100.0% of the smaller box",
+      "text": "0.00",
+      "text_bbox": [
+        23.953125,
+        582.4862060546875,
+        38.40234375,
+        696.0252685546875
+      ],
+      "other_text": "0.10",
+      "other_bbox": [
+        23.953125,
+        617.6658935546875,
+        38.401126861572266,
+        625.6658935546875
+      ],
+      "object_count": 1,
+      "object_indexes": []
+    },
+    {
+      "severity": "FAIL",
+      "kind": "text-text",
+      "page": 1,
+      "message": "Text boxes overlap by 100.0% of the smaller box",
+      "text": "0.00",
+      "text_bbox": [
+        23.953125,
+        582.4862060546875,
+        38.40234375,
+        696.0252685546875
+      ],
+      "other_text": "0.15",
+      "other_bbox": [
+        23.953125,
+        582.4862060546875,
+        38.401126861572266,
+        590.4862060546875
+      ],
+      "object_count": 1,
+      "object_indexes": []
+    },
+    {
+      "severity": "FAIL",
+      "kind": "text-text",
+      "page": 1,
+      "message": "Text boxes overlap by 100.0% of the smaller box",
+      "text": "-0.2",
+      "text_bbox": [
+        24.953125,
+        314.2322692871094,
+        38.402347564697266,
+        463.5057067871094
+      ],
+      "other_text": "-0.1",
+      "other_bbox": [
+        24.953125,
+        427.2518005371094,
+        38.40113067626953,
+        435.2518005371094
+      ],
+      "object_count": 1,
+      "object_indexes": []
+    },
+    {
+      "severity": "FAIL",
+      "kind": "text-text",
+      "page": 1,
+      "message": "Text boxes overlap by 100.0% of the smaller box",
+      "text": "-0.2",
+      "text_bbox": [
+        24.953125,
+        314.2322692871094,
+        38.402347564697266,
+        463.5057067871094
+      ],
+      "other_text": "0.0",
+      "other_bbox": [
+        27.953125,
+        398.9978942871094,
+        38.40113067626953,
+        406.9978942871094
+      ],
+      "object_count": 1,
+      "object_indexes": []
+    },
+    {
+      "severity": "FAIL",
+      "kind": "text-text",
+      "page": 1,
+      "message": "Text boxes overlap by 100.0% of the smaller box",
+      "text": "-0.2",
+      "text_bbox": [
+        24.953125,
+        314.2322692871094,
+        38.402347564697266,
+        463.5057067871094
+      ],
+      "other_text": "0.1",
+      "other_bbox": [
+        27.953125,
+        370.7439880371094,
+        38.40113067626953,
+        378.7439880371094
+      ],
+      "object_count": 1,
+      "object_indexes": []
+    },
+    {
+      "severity": "FAIL",
+      "kind": "text-text",
+      "page": 1,
+      "message": "Text boxes overlap by 100.0% of the smaller box",
+      "text": "-0.2",
+      "text_bbox": [
+        24.953125,
+        314.2322692871094,
+        38.402347564697266,
+        463.5057067871094
+      ],
+      "other_text": "0.2",
+      "other_bbox": [
+        27.953125,
+        342.4861755371094,
+        38.40113067626953,
+        350.4861755371094
+      ],
+      "object_count": 1,
+      "object_indexes": []
+    },
+    {
+      "severity": "FAIL",
+      "kind": "text-text",
+      "page": 1,
+      "message": "Text boxes overlap by 100.0% of the smaller box",
+      "text": "-0.2",
+      "text_bbox": [
+        24.953125,
+        314.2322692871094,
+        38.402347564697266,
+        463.5057067871094
+      ],
+      "other_text": "0.3",
+      "other_bbox": [
+        27.953125,
+        314.2322692871094,
+        38.40113067626953,
+        322.2322692871094
+      ],
+      "object_count": 1,
+      "object_indexes": []
+    },
+    {
+      "severity": "FAIL",
+      "kind": "text-text",
+      "page": 1,
+      "message": "Text boxes overlap by 100.0% of the smaller box",
+      "text": "Coal",
+      "text_bbox": [
+        78.33729553222656,
+        211.3159942626953,
+        350.3761901855469,
+        235.04579162597656
+      ],
+      "other_text": "Natural gas",
+      "other_bbox": [
+        142.21229553222656,
+        211.31661987304688,
+        180.93197631835938,
+        235.04579162597656
+      ],
+      "object_count": 1,
+      "object_indexes": []
+    },
+    {
+      "severity": "FAIL",
+      "kind": "text-text",
+      "page": 1,
+      "message": "Text boxes overlap by 100.0% of the smaller box",
+      "text": "Coal",
+      "text_bbox": [
+        78.33729553222656,
+        211.3159942626953,
+        350.3761901855469,
+        235.04579162597656
+      ],
+      "other_text": "Oil",
+      "other_bbox": [
+        253.21620178222656,
+        211.40992736816406,
+        265.4571838378906,
+        222.79188537597656
+      ],
+      "object_count": 1,
+      "object_indexes": []
+    },
+    {
+      "severity": "FAIL",
+      "kind": "text-text",
+      "page": 1,
+      "message": "Text boxes overlap by 100.0% of the smaller box",
+      "text": "Coal",
+      "text_bbox": [
+        78.33729553222656,
+        211.3159942626953,
+        350.3761901855469,
+        235.04579162597656
+      ],
+      "other_text": "Biomass",
+      "other_bbox": [
+        319.8060607910156,
+        211.3159942626953,
+        350.3761901855469,
+        231.24501037597656
+      ],
+      "object_count": 1,
+      "object_indexes": []
+    },
+    {
+      "severity": "FAIL",
+      "kind": "text-text",
+      "page": 1,
+      "message": "Text boxes overlap by 100.0% of the smaller box",
+      "text": "Coal",
+      "text_bbox": [
+        78.4114990234375,
+        465.5035400390625,
+        350.805908203125,
+        489.2333068847656
+      ],
+      "other_text": "Natural gas",
+      "other_bbox": [
+        142.40370178222656,
+        465.5041809082031,
+        181.1233673095703,
+        489.2333068847656
+      ],
+      "object_count": 1,
+      "object_indexes": []
+    },
+    {
+      "severity": "FAIL",
+      "kind": "text-text",
+      "page": 1,
+      "message": "Text boxes overlap by 100.0% of the smaller box",
+      "text": "Coal",
+      "text_bbox": [
+        78.4114990234375,
+        465.5035400390625,
+        350.805908203125,
+        489.2333068847656
+      ],
+      "other_text": "Oil",
+      "other_bbox": [
+        253.52870178222656,
+        465.597412109375,
+        265.7696838378906,
+        476.9794006347656
+      ],
+      "object_count": 1,
+      "object_indexes": []
+    },
+    {
+      "severity": "FAIL",
+      "kind": "text-text",
+      "page": 1,
+      "message": "Text boxes overlap by 100.0% of the smaller box",
+      "text": "Coal",
+      "text_bbox": [
+        78.4114990234375,
+        465.5035400390625,
+        350.805908203125,
+        489.2333068847656
+      ],
+      "other_text": "Biomass",
+      "other_bbox": [
+        320.2357482910156,
+        465.5035400390625,
+        350.8058776855469,
+        485.4325256347656
+      ],
+      "object_count": 1,
+      "object_indexes": []
+    },
+    {
+      "severity": "FAIL",
+      "kind": "text-text",
+      "page": 1,
+      "message": "Text boxes overlap by 100.0% of the smaller box",
+      "text": "Coal",
+      "text_bbox": [
+        78.62246704101562,
+        719.6910400390625,
+        352.091064453125,
+        743.4208374023438
+      ],
+      "other_text": "Natural gas",
+      "other_bbox": [
+        142.97402954101562,
+        719.6915283203125,
+        181.69371032714844,
+        743.4207763671875
+      ],
+      "object_count": 1,
+      "object_indexes": []
+    },
+    {
+      "severity": "FAIL",
+      "kind": "text-text",
+      "page": 1,
+      "message": "Text boxes overlap by 100.0% of the smaller box",
+      "text": "Coal",
+      "text_bbox": [
+        78.62246704101562,
+        719.6910400390625,
+        352.091064453125,
+        743.4208374023438
+      ],
+      "other_text": "Oil",
+      "other_bbox": [
+        254.45449829101562,
+        719.7849731445312,
+        266.6954650878906,
+        731.1668701171875
+      ],
+      "object_count": 1,
+      "object_indexes": []
+    },
+    {
+      "severity": "FAIL",
+      "kind": "text-text",
+      "page": 1,
+      "message": "Text boxes overlap by 100.0% of the smaller box",
+      "text": "Coal",
+      "text_bbox": [
+        78.62246704101562,
+        719.6910400390625,
+        352.091064453125,
+        743.4208374023438
+      ],
+      "other_text": "Biomass",
+      "other_bbox": [
+        321.5209045410156,
+        719.6909790039062,
+        352.091064453125,
+        739.6199951171875
+      ],
+      "object_count": 1,
+      "object_indexes": []
+    },
+    {
+      "severity": "FAIL",
+      "kind": "text-text",
+      "page": 1,
+      "message": "Text boxes overlap by 100.0% of the smaller box",
+      "text": "Original random-intercept",
+      "text_bbox": [
+        278.875,
+        509.7244567871094,
+        567.3309936523438,
+        517.7244873046875
+      ],
+      "other_text": "Within monitor-year",
+      "other_bbox": [
+        393.10699462890625,
+        509.7244567871094,
+        460.76300048828125,
+        517.7244873046875
+      ],
+      "object_count": 1,
+      "object_indexes": []
+    },
+    {
+      "severity": "FAIL",
+      "kind": "text-text",
+      "page": 1,
+      "message": "Text boxes overlap by 100.0% of the smaller box",
+      "text": "Original random-intercept",
+      "text_bbox": [
+        278.875,
+        509.7244567871094,
+        567.3309936523438,
+        517.7244873046875
+      ],
+      "other_text": "Between monitor-years",
+      "other_bbox": [
+        488.3389892578125,
+        509.7244567871094,
+        567.3309936523438,
+        517.7244873046875
+      ],
+      "object_count": 1,
+      "object_indexes": []
+    },
+    {
+      "severity": "FAIL",
+      "kind": "text-text",
+      "page": 1,
+      "message": "Text boxes overlap by 100.0% of the smaller box",
+      "text": "Monitor × year FE",
+      "text_bbox": [
+        318.99609375,
+        255.53695678710938,
+        527.572021484375,
+        263.5369567871094
+      ],
+      "other_text": "Monitor × year + common-time FE",
+      "other_bbox": [
+        408.236083984375,
+        255.53695678710938,
+        527.5720825195312,
+        263.5369567871094
+      ],
+      "object_count": 1,
+      "object_indexes": []
+    },
+    {
+      "severity": "FAIL",
+      "kind": "text-text",
+      "page": 1,
+      "message": "Text boxes overlap by 100.0% of the smaller box",
+      "text": "0.000",
+      "text_bbox": [
+        403.234375,
+        69.38851928710938,
+        421.68359375,
+        195.98617553710938
+      ],
+      "other_text": "0.025",
+      "other_bbox": [
+        403.234375,
+        158.33383178710938,
+        421.682373046875,
+        166.33383178710938
+      ],
+      "object_count": 1,
+      "object_indexes": []
+    },
+    {
+      "severity": "FAIL",
+      "kind": "text-text",
+      "page": 1,
+      "message": "Text boxes overlap by 100.0% of the smaller box",
+      "text": "0.000",
+      "text_bbox": [
+        403.234375,
+        69.38851928710938,
+        421.68359375,
+        195.98617553710938
+      ],
+      "other_text": "0.050",
+      "other_bbox": [
+        403.234375,
+        128.68539428710938,
+        421.682373046875,
+        136.68539428710938
+      ],
+      "object_count": 1,
+      "object_indexes": []
+    },
+    {
+      "severity": "FAIL",
+      "kind": "text-text",
+      "page": 1,
+      "message": "Text boxes overlap by 100.0% of the smaller box",
+      "text": "0.000",
+      "text_bbox": [
+        403.234375,
+        69.38851928710938,
+        421.68359375,
+        195.98617553710938
+      ],
+      "other_text": "0.075",
+      "other_bbox": [
+        403.234375,
+        99.03695678710938,
+        421.682373046875,
+        107.03695678710938
+      ],
+      "object_count": 1,
+      "object_indexes": []
+    },
+    {
+      "severity": "FAIL",
+      "kind": "text-text",
+      "page": 1,
+      "message": "Text boxes overlap by 100.0% of the smaller box",
+      "text": "0.000",
+      "text_bbox": [
+        403.234375,
+        69.38851928710938,
+        421.68359375,
+        195.98617553710938
+      ],
+      "other_text": "0.100",
+      "other_bbox": [
+        403.234375,
+        69.38851928710938,
+        421.682373046875,
+        77.38851928710938
+      ],
+      "object_count": 1,
+      "object_indexes": []
+    },
+    {
+      "severity": "FAIL",
+      "kind": "text-text",
+      "page": 1,
+      "message": "Text boxes overlap by 100.0% of the smaller box",
+      "text": "-0.25",
+      "text_bbox": [
+        403.734375,
+        316.2127380371094,
+        421.18359375,
+        420.6072692871094
+      ],
+      "other_text": "0.00",
+      "other_bbox": [
+        406.734375,
+        364.4080505371094,
+        421.182373046875,
+        372.4080505371094
+      ],
+      "object_count": 1,
+      "object_indexes": []
+    },
+    {
+      "severity": "FAIL",
+      "kind": "text-text",
+      "page": 1,
+      "message": "Text boxes overlap by 100.0% of the smaller box",
+      "text": "-0.25",
+      "text_bbox": [
+        403.734375,
+        316.2127380371094,
+        421.18359375,
+        420.6072692871094
+      ],
+      "other_text": "0.25",
+      "other_bbox": [
+        406.734375,
+        316.2127380371094,
+        421.182373046875,
+        324.2127380371094
+      ],
+      "object_count": 1,
+      "object_indexes": []
+    },
+    {
+      "severity": "FAIL",
+      "kind": "text-text",
+      "page": 1,
+      "message": "Text boxes overlap by 100.0% of the smaller box",
+      "text": "0.00",
+      "text_bbox": [
+        405.234375,
+        568.0057373046875,
+        419.68359375,
+        705.5252685546875
+      ],
+      "other_text": "0.05",
+      "other_bbox": [
+        405.234375,
+        654.3533935546875,
+        419.682373046875,
+        662.3533935546875
+      ],
+      "object_count": 1,
+      "object_indexes": []
+    },
+    {
+      "severity": "FAIL",
+      "kind": "text-text",
+      "page": 1,
+      "message": "Text boxes overlap by 100.0% of the smaller box",
+      "text": "0.00",
+      "text_bbox": [
+        405.234375,
+        568.0057373046875,
+        419.68359375,
+        705.5252685546875
+      ],
+      "other_text": "0.10",
+      "other_bbox": [
+        405.234375,
+        611.1815185546875,
+        419.682373046875,
+        619.1815185546875
+      ],
+      "object_count": 1,
+      "object_indexes": []
+    },
+    {
+      "severity": "FAIL",
+      "kind": "text-text",
+      "page": 1,
+      "message": "Text boxes overlap by 100.0% of the smaller box",
+      "text": "0.00",
+      "text_bbox": [
+        405.234375,
+        568.0057373046875,
+        419.68359375,
+        705.5252685546875
+      ],
+      "other_text": "0.15",
+      "other_bbox": [
+        405.234375,
+        568.0057373046875,
+        419.682373046875,
+        576.0057373046875
+      ],
+      "object_count": 1,
+      "object_indexes": []
+    },
+    {
+      "severity": "FAIL",
+      "kind": "text-text",
+      "page": 1,
+      "message": "Text boxes overlap by 100.0% of the smaller box",
+      "text": "Coal",
+      "text_bbox": [
+        459.9075927734375,
+        719.6910400390625,
+        733.3762817382812,
+        743.4208374023438
+      ],
+      "other_text": "Natural gas",
+      "other_bbox": [
+        524.2592163085938,
+        719.6915283203125,
+        562.97900390625,
+        743.4207763671875
+      ],
+      "object_count": 1,
+      "object_indexes": []
+    },
+    {
+      "severity": "FAIL",
+      "kind": "text-text",
+      "page": 1,
+      "message": "Text boxes overlap by 100.0% of the smaller box",
+      "text": "Coal",
+      "text_bbox": [
+        459.9075927734375,
+        719.6910400390625,
+        733.3762817382812,
+        743.4208374023438
+      ],
+      "other_text": "Oil",
+      "other_bbox": [
+        635.7396850585938,
+        719.784912109375,
+        647.980712890625,
+        731.1668701171875
+      ],
+      "object_count": 1,
+      "object_indexes": []
+    },
+    {
+      "severity": "FAIL",
+      "kind": "text-text",
+      "page": 1,
+      "message": "Text boxes overlap by 100.0% of the smaller box",
+      "text": "Coal",
+      "text_bbox": [
+        459.9075927734375,
+        719.6910400390625,
+        733.3762817382812,
+        743.4208374023438
+      ],
+      "other_text": "Biomass",
+      "other_bbox": [
+        702.8060913085938,
+        719.6909790039062,
+        733.3762817382812,
+        739.6199951171875
+      ],
+      "object_count": 1,
+      "object_indexes": []
+    },
+    {
+      "severity": "FAIL",
+      "kind": "text-text",
+      "page": 1,
+      "message": "Text boxes overlap by 100.0% of the smaller box",
+      "text": "Coal",
+      "text_bbox": [
+        461.1927490234375,
+        465.5035400390625,
+        733.5911254882812,
+        489.2333068847656
+      ],
+      "other_text": "Natural gas",
+      "other_bbox": [
+        525.1888427734375,
+        465.504150390625,
+        563.90869140625,
+        489.2333068847656
+      ],
+      "object_count": 1,
+      "object_indexes": []
+    },
+    {
+      "severity": "FAIL",
+      "kind": "text-text",
+      "page": 1,
+      "message": "Text boxes overlap by 100.0% of the smaller box",
+      "text": "Coal",
+      "text_bbox": [
+        461.1927490234375,
+        465.5035400390625,
+        733.5911254882812,
+        489.2333068847656
+      ],
+      "other_text": "Oil",
+      "other_bbox": [
+        636.3099365234375,
+        465.597412109375,
+        648.551025390625,
+        476.9794006347656
+      ],
+      "object_count": 1,
+      "object_indexes": []
+    },
+    {
+      "severity": "FAIL",
+      "kind": "text-text",
+      "page": 1,
+      "message": "Text boxes overlap by 100.0% of the smaller box",
+      "text": "Coal",
+      "text_bbox": [
+        461.1927490234375,
+        465.5035400390625,
+        733.5911254882812,
+        489.2333068847656
+      ],
+      "other_text": "Biomass",
+      "other_bbox": [
+        703.0208740234375,
+        465.5035400390625,
+        733.5911254882812,
+        485.4325256347656
+      ],
+      "object_count": 1,
+      "object_indexes": []
+    },
+    {
+      "severity": "FAIL",
+      "kind": "text-text",
+      "page": 1,
+      "message": "Text boxes overlap by 100.0% of the smaller box",
+      "text": "Coal",
+      "text_bbox": [
+        461.62249755859375,
+        211.31600952148438,
+        733.661376953125,
+        235.04579162597656
+      ],
+      "other_text": "Natural gas",
+      "other_bbox": [
+        525.4974365234375,
+        211.31661987304688,
+        564.21728515625,
+        235.04579162597656
+      ],
+      "object_count": 1,
+      "object_indexes": []
+    },
+    {
+      "severity": "FAIL",
+      "kind": "text-text",
+      "page": 1,
+      "message": "Text boxes overlap by 100.0% of the smaller box",
+      "text": "Coal",
+      "text_bbox": [
+        461.62249755859375,
+        211.31600952148438,
+        733.661376953125,
+        235.04579162597656
+      ],
+      "other_text": "Oil",
+      "other_bbox": [
+        636.5013427734375,
+        211.409912109375,
+        648.742431640625,
+        222.79188537597656
+      ],
+      "object_count": 1,
+      "object_indexes": []
+    },
+    {
+      "severity": "FAIL",
+      "kind": "text-text",
+      "page": 1,
+      "message": "Text boxes overlap by 100.0% of the smaller box",
+      "text": "Coal",
+      "text_bbox": [
+        461.62249755859375,
+        211.31600952148438,
+        733.661376953125,
+        235.04579162597656
+      ],
+      "other_text": "Biomass",
+      "other_bbox": [
+        703.0911865234375,
+        211.3159942626953,
+        733.6614379882812,
+        231.24501037597656
+      ],
+      "object_count": 1,
+      "object_indexes": []
+    },
+    {
+      "severity": "WARN",
+      "kind": "text-fill-edge",
+      "page": 1,
+      "message": "Text partially overlaps the edge of 4 filled region(s)",
+      "text": "Original random-intercept",
+      "text_bbox": [
+        278.875,
+        509.7244567871094,
+        567.3309936523438,
+        517.7244873046875
+      ],
+      "other_text": null,
+      "other_bbox": [
+        370.8550109863281,
+        505.0899963378906,
+        483.3789978027344,
+        522.3709716796875
+      ],
+      "object_count": 4,
+      "object_indexes": [
+        257000,
+        258,
+        259000,
+        260000
+      ]
+    },
+    {
+      "severity": "WARN",
+      "kind": "text-fill-edge",
+      "page": 1,
+      "message": "Text partially overlaps the edge of 2 filled region(s)",
+      "text": "Monitor × year FE",
+      "text_bbox": [
+        318.99609375,
+        255.53695678710938,
+        527.572021484375,
+        263.5369567871094
+      ],
+      "other_text": null,
+      "other_bbox": [
+        385.97698974609375,
+        250.90199279785156,
+        403.25799560546875,
+        268.1829833984375
+      ],
+      "object_count": 2,
+      "object_indexes": [
+        114000,
+        115
+      ]
+    },
+    {
+      "severity": "WARN",
+      "kind": "text-fill-edge",
+      "page": 1,
+      "message": "Text partially overlaps the edge of 2 filled region(s)",
+      "text": "PM₂.₅ adjusted",
+      "text_bbox": [
+        350.99609375,
+        763.9119873046875,
+        449.900146484375,
+        771.9119873046875
+      ],
+      "other_text": null,
+      "other_bbox": [
+        403.97698974609375,
+        759.2769775390625,
+        421.25799560546875,
+        776.5579833984375
+      ],
+      "object_count": 2,
+      "object_indexes": [
+        368000,
+        369
+      ]
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+id,covariate,variable,n,n_monitors,nonlinear_terms_tested,wald_chisq,df,p_nonlinearity,delta_AIC_vs_current_linear_form,p_BH,interpretation
+pm25,PM2.5,pm_model_centered,107367,133,I(pm25_z^2) + I(pm25_z^3),,,,-673.321831733221,,未见强非线性证据
+rhum,Relative humidity,rhum,107367,133,I(rhum_z^2) + I(rhum_z^3),,,,-8.47925776336342,,未见强非线性证据
+soilm,Soil moisture,soilm,107367,133,I(soilm_z^2) + I(soilm_z^3),,,,-79.9837965022307,,未见强非线性证据
+wind,Wind speed,vel,107367,133,I(wind_z^2) + I(wind_z^3),,,,-172.24769950012,,未见强非线性证据
+cprop,Continental air-mass proportion,c_prop,107367,133,I(cprop_z^2) + I(cprop_z^3),,,,-297.234553163871,,未见强非线性证据
+sunspot,Monthly sunspot number,sunspot_monthly,107367,133,I(sunspot_z^2) + I(sunspot_z^3),,,,-12.7967954934575,,未见强非线性证据
+invhpbl,Inverse PBLH,inv_hpbl,107367,133,I(invhpbl_z^2) + I(invhpbl_z^3),,,,-37.5805046322639,,未见强非线性证据
+temperature,Temperature,temp_centered,107367,133,I(temp_centered^2) + I(temp_centered^3),,,,-630.803659405792,,未见强非线性证据

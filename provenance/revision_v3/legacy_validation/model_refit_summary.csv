@@ -1,0 +1,15 @@
+check,observed,status
+formal_rows,107407,PASS
+formal_monitors,133,PASS
+Figure4_models,56,PASS
+Figure4_max_abs_diff,0.00000000000000532907051820075,PASS
+Figure4_all_N_equal,1,PASS
+H20B_spline_models,56,PASS
+H20B_max_abs_diff,0.00000000000000532907051820075,PASS
+H20B_all_N_equal,1,PASS
+Figure5_contrast_rows,168,PASS
+Figure5_max_abs_diff,0.000000000000521215015591992,PASS
+H21_models,14,PASS
+H21_max_abs_diff,0.00000000000000488498130835069,PASS
+H18_actual_nobs,107367,PASS
+H18_max_abs_diff,0.000000000000177635683940025,PASS

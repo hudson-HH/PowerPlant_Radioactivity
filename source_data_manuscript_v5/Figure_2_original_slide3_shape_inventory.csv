@@ -1,0 +1,38 @@
+shape_id,shape_name,text
+45,VSS_title,Figure 2. Study design and analytical framework
+2,VSS_top_left_drop,
+3,VSS_top_bus_left,
+4,VSS_top_center_drop,
+5,VSS_top_bus_right,
+6,VSS_top_right_drop,
+8,VSS_harmonize_linkage_line,
+10,VSS_linkage_exposure_line,
+12,VSS_output_center_drop,
+13,VSS_output_bus_left,
+14,VSS_output_bus_right,
+15,VSS_output_left_drop,
+19,VSS_output_right_drop,
+21,VSS_source_radnet_box,
+22,VSS_source_radnet_text,RadNet radiation | monitoring
+23,VSS_source_eia_box,
+24,VSS_source_eia_text,EIA annual power-plant characteristics and fuel types
+25,VSS_source_epa_box,
+26,VSS_source_epa_text,EPA CAMPD daily operating data
+27,VSS_source_met_box,
+28,VSS_source_met_text,Meteorology and | atmospheric transport
+29,VSS_source_natural_box,
+30,VSS_source_natural_text,Natural radioactive | background
+31,VSS_source_other_box,
+32,VSS_source_other_text,Other environmental | covariates
+33,VSS_process_harmonize_box,
+34,VSS_process_harmonize_text,Data harmonization and integration
+35,VSS_process_linkage_box,
+36,VSS_process_linkage_text,Monitor–power plant spatiotemporal linkage
+37,VSS_process_exposure_box,
+38,VSS_process_exposure_text,Power-plant exposure construction
+39,VSS_output_overall_box,
+40,VSS_output_overall_text,Overall and broad | energy-class analyses
+41,VSS_output_fuel_box,
+42,VSS_output_fuel_text,Fuel-specific actual-operation analyses
+43,VSS_output_sensitivity_box,
+44,VSS_output_sensitivity_text,Internal-validity and specificity analyses

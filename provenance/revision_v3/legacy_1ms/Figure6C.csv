@@ -1,0 +1,33 @@
+fuel,metric,model,wind_reference,wind_ms,estimate,ci_low,ci_high,fuel_label,metric_label
+coal,count,PM₂.₅ adjusted,Sample median,3.15442053456934,0.000578355987759498,-0.00999300075477156,0.0111497127302906,Coal,"Active plant count
+(per additional active plant)"
+coal,heat,PM₂.₅ adjusted,Sample median,3.15275005725255,0.000542157760351797,0.000028718651931248,0.00105559686877235,Coal,"Actual daily Heat Input
+(per 10,000 MMBtu/day)"
+gas,count,PM₂.₅ adjusted,Sample median,3.15442053456934,0.00190128610647951,-0.00285173262293356,0.00665430483589259,Natural gas,"Active plant count
+(per additional active plant)"
+gas,heat,PM₂.₅ adjusted,Sample median,3.13870352480861,0.00036994789768721,-0.000400449742653907,0.00114034553802833,Natural gas,"Actual daily Heat Input
+(per 10,000 MMBtu/day)"
+oil,count,PM₂.₅ adjusted,Sample median,3.15442053456934,-0.0129844940597982,-0.0198348386120792,-0.00613414950751723,Oil,"Active plant count
+(per additional active plant)"
+oil,heat,PM₂.₅ adjusted,Sample median,3.13587557596978,-0.00261634736148273,-0.00769254293351177,0.00245984821054632,Oil,"Actual daily Heat Input
+(per 10,000 MMBtu/day)"
+biomass,count,PM₂.₅ adjusted,Sample median,3.15442053456934,0.0788972878549013,0.0500758176340676,0.107718758075735,Biomass,"Active plant count
+(per additional active plant)"
+biomass,heat,PM₂.₅ adjusted,Sample median,3.15442053456934,0.0630865064835093,0.0272650484643976,0.098907964502621,Biomass,"Actual daily Heat Input
+(per 10,000 MMBtu/day)"
+coal,count,No PM₂.₅ adjustment,Sample median,3.15442053456934,0.00772458397378584,-0.00973035595573349,0.0251795239033052,Coal,"Active plant count
+(per additional active plant)"
+coal,heat,No PM₂.₅ adjustment,Sample median,3.15275005725255,0.00102734456323641,0.000223356460503812,0.00183133266596901,Coal,"Actual daily Heat Input
+(per 10,000 MMBtu/day)"
+gas,count,No PM₂.₅ adjustment,Sample median,3.15442053456934,0.00573344561144916,-0.00266043562516506,0.0141273268480634,Natural gas,"Active plant count
+(per additional active plant)"
+gas,heat,No PM₂.₅ adjustment,Sample median,3.13870352480861,0.000372816448338234,-0.000857594336035033,0.0016032272327115,Natural gas,"Actual daily Heat Input
+(per 10,000 MMBtu/day)"
+oil,count,No PM₂.₅ adjustment,Sample median,3.15442053456934,-0.00753550547184478,-0.0248133397142974,0.00974232877060783,Oil,"Active plant count
+(per additional active plant)"
+oil,heat,No PM₂.₅ adjustment,Sample median,3.13587557596978,-0.00372678391364909,-0.0092165129821986,0.00176294515490043,Oil,"Actual daily Heat Input
+(per 10,000 MMBtu/day)"
+biomass,count,No PM₂.₅ adjustment,Sample median,3.15442053456934,0.110735623657552,0.0578290027053188,0.163642244609785,Biomass,"Active plant count
+(per additional active plant)"
+biomass,heat,No PM₂.₅ adjustment,Sample median,3.15442053456934,0.0810076226277913,0.0176698664305611,0.144345378825021,Biomass,"Actual daily Heat Input
+(per 10,000 MMBtu/day)"

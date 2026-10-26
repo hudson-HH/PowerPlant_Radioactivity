@@ -1,0 +1,74 @@
+[
+  {
+    "figure": "Figure3_overall_inventory",
+    "fail": 0,
+    "warn": 0,
+    "contained_fill_overlays": 6,
+    "contained_image_overlays": 0,
+    "minimum_pt": 8.0,
+    "below_5pt": 0
+  },
+  {
+    "figure": "Figure4_upwind_actual_operation_monitorYearFE",
+    "fail": 0,
+    "warn": 0,
+    "contained_fill_overlays": 16,
+    "contained_image_overlays": 0,
+    "minimum_pt": 8.0,
+    "below_5pt": 0
+  },
+  {
+    "figure": "Figure5_upwind_minus_downwind_monitorYearFE",
+    "fail": 0,
+    "warn": 0,
+    "contained_fill_overlays": 16,
+    "contained_image_overlays": 0,
+    "minimum_pt": 8.0,
+    "below_5pt": 0
+  },
+  {
+    "figure": "Figure6_internal_validity_and_key_robustness",
+    "fail": 0,
+    "warn": 0,
+    "contained_fill_overlays": 13,
+    "contained_image_overlays": 0,
+    "minimum_pt": 7.999999523162842,
+    "below_5pt": 0
+  },
+  {
+    "figure": "Figure_GFED_biomass_sensitivity",
+    "fail": 0,
+    "warn": 0,
+    "contained_fill_overlays": 4,
+    "contained_image_overlays": 0,
+    "minimum_pt": 8.0,
+    "below_5pt": 0
+  },
+  {
+    "figure": "Supplementary_Figure_S3_monitorFE",
+    "fail": 0,
+    "warn": 0,
+    "contained_fill_overlays": 16,
+    "contained_image_overlays": 0,
+    "minimum_pt": 8.0,
+    "below_5pt": 0
+  },
+  {
+    "figure": "Supplementary_Figure_S4_monitorFE_direction",
+    "fail": 0,
+    "warn": 0,
+    "contained_fill_overlays": 16,
+    "contained_image_overlays": 0,
+    "minimum_pt": 8.0,
+    "below_5pt": 0
+  },
+  {
+    "figure": "Supplementary_Figure_S5_leave_one_monitor_out",
+    "fail": 0,
+    "warn": 0,
+    "contained_fill_overlays": 9,
+    "contained_image_overlays": 0,
+    "minimum_pt": 8.0,
+    "below_5pt": 0
+  }
+]

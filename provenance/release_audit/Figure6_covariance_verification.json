@@ -1,0 +1,90 @@
+{
+  "method": "Independent full contrast vector a: estimate=a^T beta; variance=a^T V a",
+  "compared_rows": 56,
+  "max_abs_error": 3.46944695195361e-16,
+  "baseline_matrix_md5": "780a7f412af0af27711e16e255f16897",
+  "covariance_terms_retained": true,
+  "mixed_models": {
+    "biomass_count_original": {
+      "optimizer_code": 0,
+      "lme4_messages": null,
+      "singular": false
+    },
+    "biomass_count_mundlak": {
+      "optimizer_code": 0,
+      "lme4_messages": null,
+      "singular": false
+    },
+    "biomass_heat_original": {
+      "optimizer_code": 0,
+      "lme4_messages": null,
+      "singular": false
+    },
+    "biomass_heat_mundlak": {
+      "optimizer_code": 0,
+      "lme4_messages": null,
+      "singular": false
+    },
+    "coal_count_original": {
+      "optimizer_code": 0,
+      "lme4_messages": null,
+      "singular": false
+    },
+    "coal_count_mundlak": {
+      "optimizer_code": 0,
+      "lme4_messages": null,
+      "singular": false
+    },
+    "coal_heat_original": {
+      "optimizer_code": 0,
+      "lme4_messages": null,
+      "singular": false
+    },
+    "coal_heat_mundlak": {
+      "optimizer_code": 0,
+      "lme4_messages": null,
+      "singular": false
+    },
+    "gas_count_original": {
+      "optimizer_code": 0,
+      "lme4_messages": null,
+      "singular": false
+    },
+    "gas_count_mundlak": {
+      "optimizer_code": 0,
+      "lme4_messages": null,
+      "singular": false
+    },
+    "gas_heat_original": {
+      "optimizer_code": 0,
+      "lme4_messages": null,
+      "singular": false
+    },
+    "gas_heat_mundlak": {
+      "optimizer_code": 0,
+      "lme4_messages": null,
+      "singular": false
+    },
+    "oil_count_original": {
+      "optimizer_code": 0,
+      "lme4_messages": null,
+      "singular": false
+    },
+    "oil_count_mundlak": {
+      "optimizer_code": 0,
+      "lme4_messages": null,
+      "singular": false
+    },
+    "oil_heat_original": {
+      "optimizer_code": 0,
+      "lme4_messages": null,
+      "singular": false
+    },
+    "oil_heat_mundlak": {
+      "optimizer_code": 0,
+      "lme4_messages": null,
+      "singular": false
+    }
+  },
+  "verdict": "PASS"
+}
