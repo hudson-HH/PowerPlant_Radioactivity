@@ -22,16 +22,63 @@ Citation placeholder: Hu H, et al. Particle radioactivity near US combustion pow
 | `R/` | Publication reproduction scripts and final Figure 1/6 rendering modules |
 | `data/prepared_model_data/` | Both published compressed analysis matrices |
 | `data/source_data/` | Frozen model estimates, numerical display sources, and supplementary results |
-| `data/display_assets/frozen_v3/` | Existing manuscript Figures 1–6, Supplementary Figures S1–S8, Table 1, and Tables S1a–S7 |
+| `data/display_assets/v4_2026-10-30/` | Current manuscript Figures 1–6 and S1–S8 in four formats, plus new combustion-only Figure 1/S1 display data |
+| `data/display_assets/frozen_v3/` | Historical manuscript figures, plus retained Table 1 and Tables S1a–S7 |
 | `source_data_manuscript_v5/` | All 28 direct manuscript-v5 display source files |
 | `data_dictionary.csv` | Matrix variables, units, and definitions where supplied |
-| `display_update_scripts/` | Additional Figure 1/2/6 revision, extraction, and audit scripts |
+| `display_update_scripts/` | Additional Figure 1/2/6 scripts and the portable `v4_2026-10-30/` redraw/QA workflow |
+| `docs/figure_revision_2026-10-30_qa.md` | Supplied figure-revision QA report and repository integration verification |
 | `legacy_scripts/` | Historical upstream preparation and analysis scripts; external inputs required |
 | `provenance/` | Input manifests, historical verification evidence, filename mapping, and path-edit report |
 | `tools/nature-figure/scripts/` | Bundled alignment and collision audit helpers |
 | `docs/package_status.md` | Translated archive status and current limitations |
 | `outputs/`, `validation/` | Supplied historical outputs are retained; new intermediate/work directories and validation reports are ignored by Git |
 | `SHA256SUMS.txt` | Final release-file hashes, excluding itself and `.git/` |
+
+
+## Figure revision 2026-10-30
+
+The current manuscript figures are in
+`data/display_assets/v4_2026-10-30/figures/` (Figures 1–6 and Supplementary
+Figures S1–S8; PNG, PDF, TIFF and SVG). The unchanged `frozen_v3/` folder is
+kept for history; its tables remain the supplied manuscript tables.
+
+Overall titles, subtitles and sample-size text were removed from inside all
+figures; this information belongs in the figure legends. Figure 1 now has one
+combustion-only map, with former panel b removed. Figure 1 and S1 include coal,
+natural gas, oil, other fossil, biomass and solid waste as **non-exclusive**
+roles: 5,068 physical plants and 8,326 plant–role points. S1 replaces its former
+single-fuel classification with these non-exclusive roles; panel counts are
+coal 798, natural gas 3,500, oil 2,675, other fossil 108, biomass 1,057 and solid
+waste 188. Figure 3's wind-speed legend is now inside panel a. No estimate,
+confidence interval, analytical sample or model changed (QA tolerance 0).
+
+New Figure 1/S1 location tables and CSV/JSON counts are in
+`data/display_assets/v4_2026-10-30/source_data/`. Existing v5 source files are
+reused directly rather than copied into `original/` or `reproduction/` staging
+folders:
+
+| Figure | Inputs in `source_data_manuscript_v5/` unless otherwise stated |
+| --- | --- |
+| Figure 1 | `Figure_1A_powerplant_locations.csv` (six-role subset) and `Figure_1_radnet_monitor_locations.csv` |
+| Figure 2 | Frozen artwork in `data/display_assets/frozen_v3/figures/Figure_2_study_design_framework.*`; original slide records remain in `Figure_2_original_slide3.xml` and `Figure_2_original_slide3_shape_inventory.csv` |
+| Figure 3 | `Figure_3A_radius_wind.csv`, `Figure_3B_joint_direction.csv`, `Figure_3C_sector_angle.csv` |
+| Figure 4 | `Figure_4_estimates.csv` |
+| Figure 5 | `Figure_5_estimates.csv` |
+| Figure 6 | `Figure_6_internal_validity_robustness.csv`; companion panel estimates and reference/sample records remain in `Figure_6A_main_vs_strict_time.csv`, `Figure_6B_within_between.csv`, `Figure_6C_PM25_sensitivity.csv`, `Figure_6_panel_sample_sizes_and_estimates.csv`, `Figure_6_reference_winds_and_samples.csv` |
+| S1 | New `data/display_assets/v4_2026-10-30/source_data/Figure_1_combustion_locations.csv`, derived from `Figure_1A_powerplant_locations.csv`; identical non-exclusive rows and coordinates |
+| S2 | Unique plant coordinates from `Figure_1A_powerplant_locations.csv`, monitor locations from `Figure_1_radnet_monitor_locations.csv`, eligible monitor IDs from `Supplementary_Figure_S5_fuel_specific_LOO.csv`, checked against `Supplementary_Figure_S2_regional_counts.csv` |
+| S3 / S4 | `Supplementary_Figure_S3_monitorFE_estimates.csv` / `Supplementary_Figure_S4_monitorFE_contrasts.csv` |
+| S5 | `Supplementary_Figure_S5_overall_LOO.csv`, `Supplementary_Figure_S5_fuel_specific_LOO.csv`, plus Figure 3A and Figure 4 full-sample references |
+| S6 | `Supplementary_Figure_S6_adjusted_combustion_effects.csv` |
+| S7 | `Supplementary_Figure_S7_natural_spline_effect_change.csv` |
+| S8 | `Supplementary_Figure_S8_GFED_estimates.csv` |
+
+Run the revision with `Rscript display_update_scripts/v4_2026-10-30/run_all.R`
+from the repository root. See the [redraw instructions](display_update_scripts/v4_2026-10-30/README.md)
+and [supplied QA report](docs/figure_revision_2026-10-30_qa.md).
+The existing root `run_all.R` continues to run its documented earlier workflow;
+it does not invoke this separate revision.
 
 Data sources are linked below using the manuscript's Data Availability URLs,
 except AQS, for which an official EPA access page is supplied because the
@@ -112,7 +159,8 @@ also included; their presence does not document a run of this revised entry poin
 | `R/05_refit_figure6.R` | Refit Figure 6 models, recover actual panel sample sizes, and compare all 56 displayed estimates |
 | `R/06_finalize_v3_displays.R` | Source and invoke `R/Figure1_display_v3.R` and `R/Figure6_display_v3.R` on frozen v5 sources for final Figures 1/6; no models are refitted in this step |
 | `R/04_session_info.R` | Write the runtime session record after preceding steps complete |
-| `data/display_assets/frozen_v3/figures/` | Frozen Figures 1–6 and S1–S8; Figure 2 and S1/S2/S6/S7 final artwork are distributed assets rather than regenerated by the entry point |
+| `data/display_assets/v4_2026-10-30/figures/` | Current manuscript Figures 1–6 and S1–S8; redrawn by the separate v4 workflow above |
+| `data/display_assets/frozen_v3/figures/` | Historical Figures 1–6 and S1–S8, unchanged; used as the v4 Figure 2 source |
 | `data/display_assets/frozen_v3/tables/` | Frozen Table 1 and Tables S1a, S1b, S2, S3, S4, S5, S6, S7 with manuscript-facing names |
 | `display_update_scripts/revise_Figure1.R` | Optional descriptive Figure 1 revision from supplied plant/monitor sources |
 | `display_update_scripts/extract_Figure2.py` | Optional Figure 2 vector extraction; original PPTX/PDF inputs are not bundled |

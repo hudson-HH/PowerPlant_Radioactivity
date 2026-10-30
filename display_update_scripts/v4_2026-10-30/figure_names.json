@@ -1,0 +1,16 @@
+{
+  "Figure_1": "Figure_1_powerplants_RadNet_map",
+  "Figure_2": "Figure_2_study_design_framework",
+  "Figure_3": "Figure_3_overall_upwind_count_radius_wind_direction",
+  "Figure_4": "Figure_4_fuel_specific_upwind_actual_operation",
+  "Figure_5": "Figure_5_upwind_minus_downwind",
+  "Figure_6": "Figure_6_internal_validity_robustness",
+  "Supplementary_Figure_S1": "Supplementary_Figure_S1_individual_fuel_type_maps",
+  "Supplementary_Figure_S2": "Supplementary_Figure_S2_regional_exposure_geometry",
+  "Supplementary_Figure_S3": "Supplementary_Figure_S3_upwind_actual_operation_monitorFE",
+  "Supplementary_Figure_S4": "Supplementary_Figure_S4_upwind_minus_downwind_monitorFE",
+  "Supplementary_Figure_S5": "Supplementary_Figure_S5_leave_one_monitor_out",
+  "Supplementary_Figure_S6": "Supplementary_Figure_S6_combustion_adjusted_for_noncombustion",
+  "Supplementary_Figure_S7": "Supplementary_Figure_S7_natural_spline_sensitivity",
+  "Supplementary_Figure_S8": "Supplementary_Figure_S8_GFED_biomass_sensitivity"
+}
