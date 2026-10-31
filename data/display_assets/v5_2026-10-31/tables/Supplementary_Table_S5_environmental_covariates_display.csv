@@ -1,0 +1,13 @@
+Covariate,Unit of covariate,Estimate (95% CI) (mBq/m³),SE,P value
+Continental air-mass fraction,Per unit proportion,"0.109 (0.0930, 0.126)",0.00841,<0.001
+Monthly sunspot number,Per sunspot (at 35° latitude),"0.000227 (0.0000491, 0.000405)",0.0000908,0.012
+PM2.5 (centred),Per µg/m³,"0.0175 (0.0164, 0.0187)",0.000587,<0.001
+Inverse boundary-layer height,Per m⁻¹,"49.3 (36.1, 62.4)",6.70,<0.001
+Relative humidity,Per percentage point,"−0.00112 (−0.00149, −0.000745)",0.000191,<0.001
+Soil moisture,Per kg/m² (at zero surface uranium),"−0.0000311 (−0.0000987, 0.0000365)",0.0000345,0.367
+Wind speed,Per m/s,"−0.00153 (−0.00440, 0.00135)",0.00147,0.297
+Temperature (linear),Per °C,"−0.00598 (−0.00679, −0.00518)",0.000411,<0.001
+Temperature (squared),Per °C²,"0.000156 (0.000104, 0.000208)",0.0000266,<0.001
+Temperature (cubed),Per °C³,"−0.000000983 (−0.00000237, 0.000000404)",0.000000707,0.165
+Sunspot number × latitude,Per sunspot × degree latitude,"−0.0000172 (−0.0000450, 0.0000105)",0.0000142,0.223
+Surface uranium × soil moisture,Per ppm × kg/m²,"−0.0000818 (−0.000121, −0.0000431)",0.0000198,<0.001

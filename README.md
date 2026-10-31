@@ -23,10 +23,12 @@ Citation placeholder: Hu H, et al. Particle radioactivity near US combustion pow
 | `data/prepared_model_data/` | Both published compressed analysis matrices |
 | `data/source_data/` | Frozen model estimates, numerical display sources, and supplementary results |
 | `data/display_assets/v4_2026-10-30/` | Current manuscript Figures 1–6 and S1–S8 in four formats, plus new combustion-only Figure 1/S1 display data |
-| `data/display_assets/frozen_v3/` | Historical manuscript figures, plus retained Table 1 and Tables S1a–S7 |
+| `data/display_assets/v5_2026-10-31/tables/` | Eight CSV tables exactly as printed in the revised Supplementary Information |
+| `data/display_assets/frozen_v3/` | Historical manuscript figures, unchanged Table 1, and retained full-precision supplementary tables with all columns |
 | `source_data_manuscript_v5/` | All 28 direct manuscript-v5 display source files |
 | `data_dictionary.csv` | Matrix variables, units, and definitions where supplied |
 | `display_update_scripts/` | Additional Figure 1/2/6 scripts and the portable `v4_2026-10-30/` redraw/QA workflow |
+| `display_update_scripts/v5_2026-10-31/` | Portable SI table rebuilding, independent number verification, Word figure layout and reviewer-copy helpers |
 | `docs/figure_revision_2026-10-30_qa.md` | Supplied figure-revision QA report and repository integration verification |
 | `legacy_scripts/` | Historical upstream preparation and analysis scripts; external inputs required |
 | `provenance/` | Input manifests, historical verification evidence, filename mapping, and path-edit report |
@@ -41,7 +43,8 @@ Citation placeholder: Hu H, et al. Particle radioactivity near US combustion pow
 The current manuscript figures are in
 `data/display_assets/v4_2026-10-30/figures/` (Figures 1–6 and Supplementary
 Figures S1–S8; PNG, PDF, TIFF and SVG). The unchanged `frozen_v3/` folder is
-kept for history; its tables remain the supplied manuscript tables.
+kept for history; its tables retain full precision and all exported columns.
+The revised printed supplementary tables are described below.
 
 Overall titles, subtitles and sample-size text were removed from inside all
 figures; this information belongs in the figure legends. Figure 1 now has one
@@ -79,6 +82,36 @@ from the repository root. See the [redraw instructions](display_update_scripts/v
 and [supplied QA report](docs/figure_revision_2026-10-30_qa.md).
 The existing root `run_all.R` continues to run its documented earlier workflow;
 it does not invoke this separate revision.
+
+## Table revision 2026-10-31
+
+The eight tables exactly as printed in the revised Supplementary Information
+are in `data/display_assets/v5_2026-10-31/tables/`. Full-precision values and
+all exported columns remain in `data/display_assets/frozen_v3/tables/` and
+`source_data_manuscript_v5/Supplementary_Figure_S8_GFED_estimates.csv`.
+No estimate, analytical sample or model changed; Table 1 is unchanged.
+
+Print formatting uses readable column names with units, value labels such as
+Coal, Plant count and Daily heat input, and fully written S5 covariates and
+units. Counts use thousands separators; estimates, CIs, SEs, coefficients and
+percentages use three significant figures; wind speed uses three decimals;
+P values use three decimals or `<0.001`. Tables use the true minus sign,
+combine estimates and 95% CIs in one cell, and are all landscape.
+
+Constant or unnecessary printed columns were omitted: S2 wind reference;
+S3 radius, status and wind reference; S4 radius and wind speed; S5 t, model N,
+monitors, outcome unit, N_pre and note; S6 N_input, monitors, SE and P; and
+S7 monitors, wind speed (3.152 m/s), absolute change and attenuation_pct.
+S6 places the two models side by side because N and wind match in all 56
+pairs; constant wind-reference and spline metadata are described in notes.
+
+Word figure paragraphs are single-spaced and kept with their legends.
+Main Figures 2–6 had been vertically squeezed by 1–11% in Word because
+inner picture dimensions did not match the frame; matching inner `a:ext`
+to `wp:extent` fixes this. The figure files themselves did not change.
+See the [script instructions](display_update_scripts/v5_2026-10-31/README.md)
+for usage and checks. Manuscript Word files are not part of the repository;
+these helpers take external DOCX paths as arguments.
 
 Data sources are linked below using the manuscript's Data Availability URLs,
 except AQS, for which an official EPA access page is supplied because the
@@ -160,8 +193,10 @@ also included; their presence does not document a run of this revised entry poin
 | `R/06_finalize_v3_displays.R` | Source and invoke `R/Figure1_display_v3.R` and `R/Figure6_display_v3.R` on frozen v5 sources for final Figures 1/6; no models are refitted in this step |
 | `R/04_session_info.R` | Write the runtime session record after preceding steps complete |
 | `data/display_assets/v4_2026-10-30/figures/` | Current manuscript Figures 1–6 and S1–S8; redrawn by the separate v4 workflow above |
+| `data/display_assets/v5_2026-10-31/tables/` | Current printed supplementary Tables S1a, S1b and S2–S7, rounded and reformatted for print |
 | `data/display_assets/frozen_v3/figures/` | Historical Figures 1–6 and S1–S8, unchanged; used as the v4 Figure 2 source |
-| `data/display_assets/frozen_v3/tables/` | Frozen Table 1 and Tables S1a, S1b, S2, S3, S4, S5, S6, S7 with manuscript-facing names |
+| `data/display_assets/frozen_v3/tables/` | Frozen Table 1 and full-precision supplementary tables with all exported columns; S7's complete source is also in `source_data_manuscript_v5/Supplementary_Figure_S8_GFED_estimates.csv` |
+| `display_update_scripts/v5_2026-10-31/` | Separate CLI workflow for Word table rebuilding, printed-number verification, figure layout fixes and reviewer table colors |
 | `display_update_scripts/revise_Figure1.R` | Optional descriptive Figure 1 revision from supplied plant/monitor sources |
 | `display_update_scripts/extract_Figure2.py` | Optional Figure 2 vector extraction; original PPTX/PDF inputs are not bundled |
 | `display_update_scripts/revise_Figure6.R` | Optional Figure 6 revision from the prepared matrix and archived 1 m/s reference; outside `run_all.R` |

@@ -1,0 +1,6 @@
+Analysis,Wind direction,Sector width (°),Estimate (95% CI) (mBq/m³)
+Direct directional contrast,Upwind − downwind,90,"0.000292 (0.00000347, 0.000581)"
+Downwind directional comparison,Downwind,90,"0.000450 (0.000231, 0.000669)"
+Directional-sector sensitivity,Upwind,60,"0.000708 (0.000455, 0.000961)"
+Directional-sector sensitivity,Upwind,90,"0.000718 (0.000515, 0.000920)"
+Directional-sector sensitivity,Upwind,120,"0.000798 (0.000623, 0.000974)"

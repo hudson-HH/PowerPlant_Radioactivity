@@ -1,0 +1,57 @@
+Fuel,Exposure metric,Radius (km),Eligible filter periods (n),Monitors (n),Exposed filter periods (n),Exposed monitors (n),Monitor-years with exposure variation (n)
+Coal,Plant count,20,"107,404",133,"21,040",51,657
+Coal,Daily heat input,20,"106,430",133,"20,066",51,650
+Natural gas,Plant count,20,"107,404",133,"36,841",90,"1,350"
+Natural gas,Daily heat input,20,"102,560",133,"31,996",90,"1,327"
+Oil,Plant count,20,"107,404",133,"8,483",28,317
+Oil,Daily heat input,20,"100,717",133,"1,791",27,217
+Biomass,Plant count,20,"107,404",133,837,2,30
+Biomass,Daily heat input,20,"107,404",133,837,2,30
+Coal,Plant count,25,"107,404",133,"26,738",62,823
+Coal,Daily heat input,25,"105,778",133,"25,112",62,817
+Natural gas,Plant count,25,"107,404",133,"43,923",95,"1,451"
+Natural gas,Daily heat input,25,"99,185",133,"35,702",95,"1,414"
+Oil,Plant count,25,"107,404",133,"10,035",31,370
+Oil,Daily heat input,25,"99,295",133,"1,923",30,249
+Biomass,Plant count,25,"107,404",133,837,2,30
+Biomass,Daily heat input,25,"107,404",133,837,2,30
+Coal,Plant count,30,"107,404",133,"35,374",70,947
+Coal,Daily heat input,30,"104,832",133,"32,802",70,939
+Natural gas,Plant count,30,"107,404",133,"48,122",97,"1,511"
+Natural gas,Daily heat input,30,"96,991",133,"37,707",97,"1,455"
+Oil,Plant count,30,"107,404",133,"12,254",36,460
+Oil,Daily heat input,30,"97,238",133,"2,083",34,296
+Biomass,Plant count,30,"107,404",133,841,3,32
+Biomass,Daily heat input,30,"107,404",133,841,3,32
+Coal,Plant count,35,"107,404",133,"39,746",73,"1,023"
+Coal,Daily heat input,35,"104,170",133,"36,512",73,"1,018"
+Natural gas,Plant count,35,"107,404",133,"54,102",105,"1,640"
+Natural gas,Daily heat input,35,"93,435",133,"40,132",105,"1,580"
+Oil,Plant count,35,"107,404",133,"14,288",41,526
+Oil,Daily heat input,35,"95,442",133,"2,321",38,337
+Biomass,Plant count,35,"107,404",133,"1,128",5,45
+Biomass,Daily heat input,35,"107,352",133,"1,076",5,45
+Coal,Plant count,40,"107,404",133,"43,157",80,"1,128"
+Coal,Daily heat input,40,"103,659",133,"39,394",80,"1,120"
+Natural gas,Plant count,40,"107,404",133,"58,655",109,"1,711"
+Natural gas,Daily heat input,40,"91,130",133,"42,380",109,"1,647"
+Oil,Plant count,40,"107,404",133,"15,714",42,554
+Oil,Daily heat input,40,"94,186",133,"2,491",39,360
+Biomass,Plant count,40,"107,404",133,"1,128",5,45
+Biomass,Daily heat input,40,"107,352",133,"1,076",5,45
+Coal,Plant count,45,"107,404",133,"45,897",83,"1,179"
+Coal,Daily heat input,45,"103,092",133,"41,564",83,"1,171"
+Natural gas,Plant count,45,"107,404",133,"61,380",110,"1,753"
+Natural gas,Daily heat input,45,"89,454",133,"43,429",110,"1,688"
+Oil,Plant count,45,"107,404",133,"17,547",44,587
+Oil,Daily heat input,45,"92,785",133,"2,922",41,386
+Biomass,Plant count,45,"107,404",133,"1,128",5,45
+Biomass,Daily heat input,45,"107,352",133,"1,076",5,45
+Coal,Plant count,50,"107,404",133,"47,858",85,"1,224"
+Coal,Daily heat input,50,"102,675",133,"43,108",85,"1,218"
+Natural gas,Plant count,50,"107,404",133,"64,262",112,"1,786"
+Natural gas,Daily heat input,50,"87,726",133,"44,583",112,"1,720"
+Oil,Plant count,50,"107,404",133,"18,548",46,617
+Oil,Daily heat input,50,"91,933",133,"3,071",44,406
+Biomass,Plant count,50,"107,404",133,"1,128",5,45
+Biomass,Daily heat input,50,"107,352",133,"1,076",5,45
